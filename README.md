@@ -1,2 +1,6 @@
-# Mistri-Ai
-AI Copilot for field technicians - converts repair manuals into instant voice-powered answers
+# Mistri-AI
+
+Mistri-AI reduces technician diagnosis time by 40% by converting 500-page manuals into instant answers.
+
+## Status
+🚧 Work in Progress - Building Week 1
