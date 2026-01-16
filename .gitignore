@@ -1,0 +1,16 @@
+# NEVER commit these
+.env
+*.env
+
+# Virtual environment
+venv/
+
+# ChromaDB
+chroma_db/
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
