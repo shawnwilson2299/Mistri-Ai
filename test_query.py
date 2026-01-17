@@ -17,7 +17,10 @@ vector_store = ChromaVectorStore(chroma_collection=chroma_collection)
 index = VectorStoreIndex.from_vector_store(vector_store)
 
 # Create query engine
-query_engine = index.as_query_engine()
+query_engine = index.as_query_engine(
+    similarity_top_k=5, # Retreive 5 chunks instread of 2
+    response_mode="compact" # Better answer synthesis
+)
 
 # Test queries
 print("Testing RAG system...\n")
