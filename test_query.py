@@ -35,4 +35,16 @@ for q in queries:
     print(f"Q: {q}")
     response = query_engine.query(q)
     print(f"A: {response}\n")
-    print("-" * 80 + "\n")
+    
+    # NEW: Show source citations
+    print("SOURCES USED:")
+    print("=" * 80)
+    for idx, node in enumerate(response.source_nodes, 1):
+        print(f"\n[Source {idx}]")
+        print(f"Relevance Score: {node.score:.3f}")
+        print(f"Text: {node.text[:200]}...")  # First 200 characters
+        if node.metadata:
+            print(f"Metadata: {node.metadata}")
+    
+    print("\n" + "-" * 80 + "\n")
+

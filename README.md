@@ -43,3 +43,15 @@ source venv/bin/activate
 pip install chromadb llama-index-vector-stores-chroma llama-index-embeddings-openai openai llama-parse python-dotenv
 python create_index.py
 python test_query.py
+
+
+## Updates
+
+### Week 2 (January 19, 2026)
+- ✅ Added citation system with source tracking
+- ✅ Display relevance scores for each retrieved chunk
+- ✅ Show text snippets for answer verification
+- ✅ Implemented traceability for production use
+
+**Sample Output:**
+
