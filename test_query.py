@@ -1,50 +1,67 @@
 import chromadb
+
 from llama_index.core import VectorStoreIndex, Settings
 from llama_index.vector_stores.chroma import ChromaVectorStore
 from llama_index.embeddings.openai import OpenAIEmbedding
+from llama_index.core.vector_stores import (
+    MetadataFilters,
+    ExactMatchFilter,
+)
 from dotenv import load_dotenv
 
 load_dotenv()
 
-# Set same embedding model
 Settings.embed_model = OpenAIEmbedding(model="text-embedding-3-small")
 
 # Load from ChromaDB
 db = chromadb.PersistentClient(path="./chroma_db")
-chroma_collection = db.get_or_create_collection("samsung_manual")
-
+chroma_collection = db.get_or_create_collection("fridge_manuals")
 vector_store = ChromaVectorStore(chroma_collection=chroma_collection)
 index = VectorStoreIndex.from_vector_store(vector_store)
 
-# Create query engine
-query_engine = index.as_query_engine(
-    similarity_top_k=5, # Retreive 5 chunks instread of 2
-    response_mode="compact" # Better answer synthesis
-)
 
-# Test queries
-print("Testing RAG system...\n")
+def run_brand_queries(brand: str, queries):
+    print(f"\n==============================")
+    print(f" BRAND: {brand}")
+    print(f"==============================\n")
 
-queries = [
-    "How do I defrost the Samsung refrigerator?",
-    "What temperature should I set for the freezer?",
-    "How do I clean the water filter?"
-]
+    # Build metadata filter: brand must equal this value
+    brand_filter = MetadataFilters(
+        filters=[ExactMatchFilter(key="brand", value=brand)]
+    )
 
-for q in queries:
-    print(f"Q: {q}")
-    response = query_engine.query(q)
-    print(f"A: {response}\n")
-    
-    # NEW: Show source citations
-    print("SOURCES USED:")
-    print("=" * 80)
-    for idx, node in enumerate(response.source_nodes, 1):
-        print(f"\n[Source {idx}]")
-        print(f"Relevance Score: {node.score:.3f}")
-        print(f"Text: {node.text[:200]}...")  # First 200 characters
-        if node.metadata:
-            print(f"Metadata: {node.metadata}")
-    
-    print("\n" + "-" * 80 + "\n")
+    # Create a query engine that filters by brand metadata
+    query_engine = index.as_query_engine(
+        similarity_top_k=5,
+        response_mode="compact",
+        filters=brand_filter,
+    )
 
+    for q in queries:
+        print(f"Q ({brand}): {q}")
+        response = query_engine.query(q)
+        print(f"A: {response}\n")
+
+        print("SOURCES USED:")
+        print("=" * 80)
+        for idx, node in enumerate(response.source_nodes, 1):
+            print(f"\n[Source {idx}]")
+            print(f"Relevance Score: {node.score:.3f}")
+            print(f"Text: {node.text[:200]}...")
+            if node.metadata:
+                print(f"Metadata: {node.metadata}")
+        print("\n" + "-" * 80 + "\n")
+
+
+if __name__ == "__main__":
+    print("Testing brand-aware RAG system...\n")
+
+    queries = [
+        "How do I defrost the refrigerator?",
+        "What temperature should I set for the freezer?",
+        "How do I clean the water filter?",
+    ]
+
+    # Test for each brand separately
+    for b in ["Samsung", "Whirlpool", "LG"]:
+        run_brand_queries(b, queries)
