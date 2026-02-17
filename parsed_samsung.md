@@ -17,135 +17,49 @@ Untitled-1  1
 ---
 
 
+
 # Contents
 
-# Safety information
-
-3
-
-# Important safety symbols and precautions
-
-6
-
-# Severe warning signs for transportation and site
-
-7
-
-# Critical installation warnings
-
-7
-
-# Installation cautions
-
-11
-
-# Critical usage warnings
-
-12
-
-# Usage cautions
-
-17
-
-# Cleaning cautions
-
-19
-
-# Critical disposal warnings
-
-21
-
-# Additional tips for proper usage
-
-22
-
-# Saving Energy Tips
-
-24
-
-# This appliance is intended to be used in household and similar applications such as
-
-25
-
-# Instructions about the WEEE
-
-25
+- Safety information 3
+- Important safety symbols and precautions 6
+- Severe warning signs for transportation and site 7
+- Critical installation warnings 7
+- Installation cautions 11
+- Critical usage warnings 12
+- Usage cautions 17
+- Cleaning cautions 19
+- Critical disposal warnings 21
+- Additional tips for proper usage 22
+- Saving Energy Tips 24
+- This appliance is intended to be used in household and similar applications such as 25
+- Instructions about the WEEE 25
 
 # Installation
 
-26
-
-# Refrigerator at a glance
-
-26
-
-# Step-by-step installation
-
-29
+- Refrigerator at a glance 26
+- Step-by-step installation 29
 
 # Operations
 
-34
-
-# Main panel
-
-34
-
-# SmartThings (applicable models only)
-
-38
-
-# Special features
-
-41
+- Main panel 34
+- SmartThings (applicable models only) 38
+- Special features 41
 
 # Maintenance
 
-42
-
-# Handle and care
-
-42
-
-# Cleaning
-
-44
-
-# Replacement
-
-45
+- Handle and care 42
+- Cleaning 44
+- Replacement 45
 
 # Troubleshooting
 
-46
-
-# General
-
-46
-
-# Do you hear abnormal sounds from the refrigerator?
-
-48
-
-# SmartThings (applicable models only)
-
-50
+- General 46
+- Do you hear abnormal sounds from the refrigerator? 48
+- SmartThings (applicable models only) 50
 
 # Open Source Announcement
 
-51
-
-2 English
-
-Untitled-1
-
-Untitled-1  2
-
-2024-07-23
-
-2024-07-23     4:46:16
-
-4:46:16
+- 51
 
 
 
@@ -160,8 +74,6 @@ Safety information
 • This appliance can be used by children aged from 8 years and above and persons with reduced physical, sensory or mental capabilities or lack of experience and knowledge if they have been given supervision or instruction concerning use of the appliance in a safe way and understand the hazards involved. Children shall not play with the appliance. Cleaning and user maintenance shall not be made by children without supervision.
 
 • Warnings and Important Safety Instructions in this manual do not cover all possible conditions and situations that may occur. It is your responsibility to use common sense, caution, and care when installing, maintaining, and operating your appliance.
-
-English 3
 
 ---
 
@@ -179,16 +91,6 @@ Safety information
 
 4 English
 
-Untitled-1
-
-Untitled-1  4
-
-4     2024-07-23
-
-2024-07-23     4:46:16
-
-4:46:16
-
 ---
 
 
@@ -196,15 +98,8 @@ Untitled-1  4
 
 - Do not store explosive substances such as aerosol cans with a flammable propellant in this appliance.
 - To avoid contamination of food, please respect the following instructions:
-- Opening the door for long periods can cause a significant increase of the temperature in the compartments of the appliance.
-- Clean regularly surfaces that can come in contact with food and accessible drainage systems.
-- Clean water tanks if they have not been used for 48 h; flush the water system connected to a water supply if water has not been drawn for 5 days.
-- Store raw meat and fish in suitable containers in the refrigerator, so that it is not in contact with or drip onto other food.
-- Two-star frozen-food compartments are suitable for storing pre-frozen food, storing or making ice cream and making ice cubes.
-- One-, two- and three-star compartments are not suitable for the freezing of fresh food.
-- If the refrigerating appliance is left empty for long periods, switch off, defrost, clean, dry, and leave the door open to prevent mould developing within the appliance.
 
-WARNING; Risk of fire / flammable materials
+WARNING: Risk of fire / flammable materials
 
 
 
@@ -271,6 +166,8 @@ Severe warning signs for transportation and site
 - Never unplug your refrigerator by pulling on the power cord. Always grip the plug firmly and pull straight out from the outlet.
 - Damage to the cord may cause a short-circuit, fire, and/or electric shock.
 - Do not store explosive substances such as aerosol cans with a flammable propellant in this appliance.
+
+8  English
 
 ---
 
@@ -342,6 +239,9 @@ CAUTION
 
 ---
 
+
+Safety information
+
 # Safety information
 
 # Critical usage warnings
@@ -364,6 +264,14 @@ WARNING
 - This may result in fire or explosion.
 - Children should be supervised to ensure that they do not play with the appliance.
 - Keep fingers out of “pinch point” areas. Clearances between the doors and cabinet are necessarily small. Be careful when you open the doors if children are in the area.
+
+12  English
+Untitled-1
+Untitled-1  12
+12     2024-07-23
+2024-07-23     4:46:17
+4:46:17
+
 
 ---
 
@@ -390,6 +298,8 @@ WARNING
 
 ---
 
+Safety information
+
 # Safety information
 
 - Do not overfill the refrigerator with food.
@@ -405,6 +315,8 @@ WARNING
 - Do not damage the refrigerant circuit.
 - Never stare directly at the UV LED lamp for long periods of time.
 - This may result in eye strain due to the ultraviolet rays.
+
+14 English
 
 ---
 
@@ -431,6 +343,8 @@ WARNING
 
 ---
 
+Safety information
+
 # Safety information
 
 - If the refrigerator emits a burning smell or smoke, unplug the refrigerator immediately and contact your Samsung Electronics service center.
@@ -444,12 +358,14 @@ WARNING
 - Do not use a damaged power plug, damaged power cord or loose wall socket.
 - This may result in an electric shock or fire.
 
+16 English
+
 ---
 
 
 # Usage cautions
 
-CAUTION
+# CAUTION
 
 - Do not re-freeze frozen foods that have thawed completely. Do not place carbonated or fizzy drinks in the freezer compartment. Do not put bottles or glass containers in the freezer.
 - When the contents freeze, the glass may break and cause personal injury.
@@ -463,9 +379,11 @@ Do not place glass or bottles or carbonated beverages into the freezer.
 - Do not place carbonated or fizzy drinks in the freezer compartment. Do not put bottles or glass containers in the freezer.
 - When the contents freeze, the glass may break and cause personal injury and property damage.
 
-# Safety information
+
 
 ---
+
+Safety information
 
 # Safety information
 
@@ -483,7 +401,10 @@ Do not place glass or bottles or carbonated beverages into the freezer.
 - If the refrigerator is flooded, make sure to contact your nearest service center.
 - There is a risk of electric shock or fire.
 
+18 English
+
 ---
+
 
 
 # Safety information
@@ -496,27 +417,21 @@ Do not place glass or bottles or carbonated beverages into the freezer.
 
 CAUTION
 
-• Do not spray water directly on the inside or outside the refrigerator.
-
-- There is a risk of fire or electric shock.
-
-• Do not use a hair dryer to dry the inside of the refrigerator.
-
-• Do not place a lighted candle in the refrigerator to remove bad odors.
-
-- This may result in an electric shock or fire.
-
-• Do not spray cleaning products directly on the display.
-
-- Printed letters on the display may come off.
-
-• If any foreign substance such as water has entered the appliance, unplug the power plug and contact your nearest service center.
-
-- Failing to do so may result in an electric shock or fire.
+- • Do not spray water directly on the inside or outside the refrigerator.
+- - There is a risk of fire or electric shock.
+- • Do not use a hair dryer to dry the inside of the refrigerator.
+- • Do not place a lighted candle in the refrigerator to remove bad odors.
+- - This may result in an electric shock or fire.
+- • Do not spray cleaning products directly on the display.
+- - Printed letters on the display may come off.
+- • If any foreign substance such as water has entered the appliance, unplug the power plug and contact your nearest service center.
+- - Failing to do so may result in an electric shock or fire.
 
 
 
 ---
+
+Safety information
 
 # Safety information
 
@@ -532,6 +447,8 @@ CAUTION
 - These can scratch or damage the material.
 - Do not clean glass shelves or covers with warm water when they are cold. Glass shelves and covers may break if exposed to sudden temperature changes or impacts such as bumping or dropping.
 
+20 English
+
 ---
 
 
@@ -542,8 +459,7 @@ CAUTION
 - R-600a or R-134a is used as a refrigerant. Check the compressor label on the rear of the appliance or the rating label inside the fridge to see which refrigerant is used for your refrigerator. If this refrigerator contains flammable gas (Refrigerant R-600a), contact your local authority in regard to safe disposal of this product.
 - When disposing of this refrigerator, remove the door/door seals and door latch so that small children or animals cannot become trapped inside. Children should be supervised to ensure that they do not play with the appliance. If trapped inside, a child may get hurt or suffocate to death.
 - Cyclopentane is used in the insulation. The gases in the insulation material require a special disposal procedure. Please contact your local authorities in regard to the environmentally safe disposal of this product.
-- Keep all packaging materials well out of the reach of children, as packaging materials can be dangerous to children.
-- If a child places a bag over his or her head, the child could suffocate.
+- Keep all packaging materials well out of the reach of children, as packaging materials can be dangerous to children. If a child places a bag over his or her head, the child could suffocate.
 
 # Safety information
 
@@ -578,17 +494,20 @@ English 23
 
 Untitled-1
 
-Untitled-1  23
+Untitled-1 23
 
 2024-07-23
 
-2024-07-23     4:46:17
+2024-07-23 4:46:17
 
 4:46:17
 
 # Safety information
 
+
+
 ---
+
 
 # Safety information
 
@@ -601,6 +520,8 @@ Untitled-1  23
 - Do not keep the door of the refrigerator open for too long when putting food in or taking food out. The shorter the time the door is open, the less frost build-up you’ll have in the freezer.
 - It is recommended to install the refrigerator with clearance to the back and sides. This will help reduce power consumption and keep your energy bills lower.
 - For the most efficient use of energy, please keep the all inner fittings such as baskets, drawers, shelves on the position supplied by manufacturer.
+
+
 
 ---
 
@@ -628,6 +549,9 @@ For more information on safe disposal and recycling visit our website www.samsun
 
 ---
 
+
+# Installation
+
 # Installation
 
 Follow these instructions carefully to ensure a proper installation of this refrigerator and to prevent accidents before using it.
@@ -654,15 +578,7 @@ The actual image and provided parts of the refrigerator may differ, depending on
 
 26 English
 
-Untitled-1
 
-Untitled-1  26
-
-26     2024-07-23
-
-2024-07-23     4:46:18
-
-4:46:18
 
 ---
 
@@ -711,7 +627,6 @@ The actual refrigerator and provided component parts of your refrigerator may di
 
 ---
 
-
 # Step-by-step installation
 
 # STEP 1    Select a site
@@ -736,11 +651,9 @@ The refrigerator is designed to operate normally in the temperature range specif
 | Subtropical        | ST     | +16 to +38            | +18 to +38 |
 | Tropical           | T      | +16 to +43            | +18 to +43 |
 
-NOTE
+# NOTE
 
 The cooling performance and power consumption of the refrigerator may be affected by the ambient temperature, the door-opening frequency, and the location of the refrigerator. We recommend adjusting the temperature settings as appropriate.
-
-
 
 ---
 
@@ -771,19 +684,10 @@ B
 
 05 1447
 
-02 (unit : mm)
-
-30 English
-
-Untitled-1
-
-30
-
-2024-07-23
-
-4:46:18
+(unit : mm)
 
 ---
+
 
 
 # STEP 2 Spacing (applicable models only)
@@ -796,8 +700,6 @@ Untitled-1
 - The surface to install the refrigerator must support a fully loaded refrigerator or approximately 90 kg.
 - To protect the floor, put a large piece of cardboard on each leg of the refrigerator.
 - Once the refrigerator is in its final position, do not move it unless necessary to protect the floor. If you have to, use thick paper or cloth such as old carpets along the movement path.
-
-English 31
 
 
 
@@ -850,10 +752,8 @@ English 33
 
 # Main panel
 
-| 01 Freezer                         | 02 Freezer Convert   |
-| ---------------------------------- | -------------------- |
-| 03 Fridge / Power Cool             | 04 AI Energy Mode \* |
-| 05 Network connection indicator \* |                      |
+| 01 Freezer | 02 Freezer Convert | 03 Fridge / Power Cool | 04 AI Energy Mode \* | 05 Network connection indicator \* |
+| ---------- | ------------------ | ---------------------- | -------------------- | ---------------------------------- |
 
 * applicable models only
 
@@ -900,8 +800,6 @@ If you press and hold Freezer Convert for 3 seconds, the refrigerator switches t
 - Make sure to remove chilled foods from the freezer before disabling the Freezer Convert. Chilled foods may freeze as the temperature decreases (Fridge mode changes to Freezer mode).
 - When you convert the Freezer to Fridge mode, the temperature inside the freezer will increase, resulting in dew forming on the inside wall because of the temperature difference.
 
-English 35
-
 
 
 ---
@@ -943,7 +841,6 @@ It is strongly recommended to empty the fridge compartment and make sure the doo
 
 ---
 
-
 # 04 AI Energy Mode (applicable models only)
 
 The icon appears when the AI Energy Mode is operating. You may turn on or off the AI Energy Mode in the SmartThings app. (applicable models only)
@@ -968,11 +865,24 @@ NOTE
 - You must turn on the Wi-Fi to connect the refrigerator to the SmartThings app.
 - For more information, see the SmartThings (applicable models only) section.
 
+English 37
 
+Untitled-1
+
+Untitled-1  37
+
+37     2024-07-23
+
+2024-07-23     4:46:20
+
+4:46:20
+
+# Operations
 
 ---
 
-Operations
+
+# Operations
 
 # SmartThings (applicable models only)
 
@@ -982,7 +892,7 @@ Visit the Google Play Store, Galaxy Apps, or Apple App Store and search for “S
 
 Download and install the SmartThings app provided by Samsung Electronics to your smart device.
 
-# NOTE
+NOTE
 
 - The supporting software version of the SmartThings app is subject to change according to the OS supporting policy the manufacturer provides. In addition, as for the SmartThings app or the functions that the app supports, the new application update policy on the existing OS version can be suspended due to usability or security reasons.
 - The SmartThings app is subject to change without notice to improve usability or performance. As the mobile phone OS version is updated every year, the SmartThings is also updated continually according to the latest OS. If you have enquiries regarding the items mentioned above, please contact us at st.service@samsung.com.
@@ -994,7 +904,7 @@ Download and install the SmartThings app provided by Samsung Electronics to your
 - Samsung Smart Refrigerators support both Wi-Fi 2.4 GHz with IEEE 802.11 b/g/n and Soft-AP protocols. (IEEE 802.11 n is recommended.)
 - Unauthorized Wi-Fi wireless routers may fail to connect to applicable Samsung Smart Refrigerators.
 
-38 English
+
 
 ---
 
@@ -1027,18 +937,40 @@ English 39
 
 ---
 
+
 # Operations
 
-# Category
+# Monitoring
 
-| Item                                    | Description                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| --------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Fridge temperature                      | Displays the current temperature setting of the fridge.                                                                                                                                                                                                                                                                                                                                                                                                   |
-| Energy monitoring                       | Checks the accumulated power consumption of the refrigerator for the last 180 days.                                                                                                                                                                                                                                                                                                                                                                       |
-| Power Cool                              | You can turn Power Cool on or off, and check the current settings. You can turn on or off the Power Freeze in the SmartThings app. Power Freeze speeds up the freezing process at maximum fan speed. The freezer keeps running at full speed for 50 hours and then returns to the previous temperature. To freeze large amounts of food, activate Power Freeze for at least 20 hours before putting food in the freezer.                                  |
-| Power Freeze (applicable models only)   | • When you turn on Power Freeze, the refrigerator will speed up the freezing process for you. • When the Power Freeze process is complete, the freezer returns to the previous temperature setting. • When you turn off Power Freeze, the freezer returns to the previous temperature setting. **NOTE** Using Power Freeze increases energy consumption. Make sure you turn it off and return to the previous temperature if you do not intend to use it. |
-| Alarms                                  | Door opening: This alarm is triggered if the fridge or freezer door is open for more than 2 minutes.                                                                                                                                                                                                                                                                                                                                                      |
-| AI Energy Mode (applicable models only) | You can check the status of the AI Energy Mode on the SmartThings app. On some models, the icon appears on the main panel to indicate that AI Energy Mode is operating. (applicable models only) Turning on the AI Energy Mode decreases energy consumption, but it may also reduce the cooling performance.                                                                                                                                              |
+| Category | Item               | Description                                                                                                                                                                                                                                                                                                                                                                                                              |
+| -------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|          | Fridge temperature | Displays the current temperature setting of the fridge.                                                                                                                                                                                                                                                                                                                                                                  |
+|          | Energy monitoring  | Checks the accumulated power consumption of the refrigerator for the last 180 days.                                                                                                                                                                                                                                                                                                                                      |
+|          | Power Cool         | You can turn Power Cool on or off, and check the current settings. You can turn on or off the Power Freeze in the SmartThings app. Power Freeze speeds up the freezing process at maximum fan speed. The freezer keeps running at full speed for 50 hours and then returns to the previous temperature. To freeze large amounts of food, activate Power Freeze for at least 20 hours before putting food in the freezer. |
+
+# Functions
+
+| Power Freeze                                                                                          | (applicable models only) |
+| ----------------------------------------------------------------------------------------------------- | ------------------------ |
+| • When you turn on Power Freeze, the refrigerator will speed up the freezing process for you.         |                          |
+| • When the Power Freeze process is complete, the freezer returns to the previous temperature setting. |                          |
+| • When you turn off Power Freeze, the freezer returns to the previous temperature setting.            |                          |
+
+NOTE: Using Power Freeze increases energy consumption. Make sure you turn it off and return to the previous temperature if you do not intend to use it.
+
+# Alarms
+
+| Door opening | This alarm is triggered if the fridge or freezer door is open for more than 2 minutes. |
+| ------------ | -------------------------------------------------------------------------------------- |
+
+You can turn on or off the AI Energy Mode under the Energy menu in the SmartThings app.
+
+# AI Energy Mode
+
+(applicable models only)
+
+You can check the status of the AI Energy Mode on the SmartThings app. On some models, the icon appears on the main panel to indicate that AI Energy Mode is operating. (applicable models only) Turning on the AI Energy Mode decreases energy consumption, but it may also reduce the cooling performance.
+
 
 
 ---
@@ -1082,7 +1014,7 @@ To remove the shelf, hold it with both hands and lift it to release it from the 
 
 Before you insert the shelf, check the shape of the back of the shelf. Then, insert the shelf in the reverse order of removal.
 
-CAUTION
+# CAUTION
 
 - The shelf must be inserted correctly. Do not insert it upside down or back to front.
 - Shelves are heavy, therefore be careful when you handle them.
@@ -1123,13 +1055,11 @@ Untitled-1  43
 
 ---
 
-
 # Maintenance
 
 # Cleaning
 
 WARNING
-
 - Do not use benzene, thinner, or home/car detergent such as Clorox™ for cleaning purposes. They may damage the surface of the refrigerator and cause a fire.
 - Do not spray water onto the refrigerator. This may cause electric shock.
 
@@ -1141,10 +1071,7 @@ Regularly use a dry cloth to remove all foreign substances such as dust or water
 4. Plug in the power cord of the refrigerator to turn the refrigerator on.
 
 NOTE
-
 If you have removed any removable parts such as shelves for cleaning, refer to the overall layout in the Refrigerator at a glance section to make sure you have reinserted correctly.
-
-
 
 ---
 
@@ -1171,6 +1098,8 @@ English 45
 
 # Troubleshooting
 
+Before calling for service, review the checkpoints below. Any service calls regarding normal situations (No Defect Cases) will be charged to users.
+
 # General
 
 # Temperature
@@ -1180,7 +1109,7 @@ English 45
 | Fridge/freezer does not operate.    | • Power cord is not plugged in properly. • Temperature control is not set correctly. • Refrigerator is located near a heat source or direct sunlight.                | • Properly plug in the power cord. • Set the temperature lower. • Keep the refrigerator away from direct sunlight or a heat source.                                                                                                         |
 | Fridge/freezer temperature is warm. | • Not enough clearance between refrigerator and sides/rear. • Vacation mode is activated. • The refrigerator is overloaded. Food is blocking the refrigerator vents. | • We recommend that the gap between the refrigerator and nearby walls (or cabinets) is more than 50 mm. • Deactivate Vacation mode. • Do not overload the refrigerator. Do not allow food to block ventilation.                             |
 | Fridge/freezer is over-cooling.     | • Temperature control is not set correctly.                                                                                                                          | • Set the temperature higher. • To prevent condensation from forming, the refrigerator has heat-proof piping in the front corners. If the ambient temperature rises, this equipment may not work effectively. This is not a system failure. |
-| Interior wall is hot.               | • Refrigerator has heat-proof piping in the interior wall.                                                                                                           | •                                                                                                                                                                                                                                           |
+| Interior wall is hot.               | • Refrigerator has heat-proof piping in the interior wall.                                                                                                           | This is not a system failure.                                                                                                                                                                                                               |
 
 
 
@@ -1192,32 +1121,26 @@ English 45
 
 | Symptom                  | Possible causes                            | Solution                                                                                                    |
 | ------------------------ | ------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
-| Refrigerator has odours. | * Spoiled food.
-* Food with strong odours. | - Clean the refrigerator and remove any spoiled food.
-- Make sure strong smelling food is wrapped airtight. |
+| Refrigerator has odours. | • Spoiled food. • Food with strong odours. | • Clean the refrigerator and remove any spoiled food. • Make sure strong smelling food is wrapped airtight. |
 
 # Condensation
 
 | Symptom                                   | Possible causes                                                                                                                                                                                         | Solution                                                                                                                                    |
 | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| Condensation forms on the interior walls. | * If door is left open, moisture enters the refrigerator.
-* Food with high moisture content.
-* The temperature had risen in the freezer when it was converted to fridge mode. (applicable models only). | - Remove the moisture and do not open the door for a long time.
-- Make sure food is wrapped airtight.
-- Wipe any moisture with a dry cloth. |
+| Condensation forms on the interior walls. | • If door is left open, moisture enters the refrigerator. • Food with high moisture content. • The temperature had risen in the freezer when it was converted to fridge mode. (applicable models only). | • Remove the moisture and do not open the door for a long time. • Make sure food is wrapped airtight. • Wipe any moisture with a dry cloth. |
 
 # Alarm
 
 | Symptom          | Possible causes                                                                                  | Solution                                                                                                                   |
 | ---------------- | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
-| An alarm sounds. | * If the door is left open for more than two minutes, the alarm sounds until the door is closed. | - Press any button to turn off the alarm. Contact a local Samsung service centre if the alarm sounds again after 12 hours. |
+| An alarm sounds. | • If the door is left open for more than two minutes, the alarm sounds until the door is closed. | • Press any button to turn off the alarm. Contact a local Samsung service centre if the alarm sounds again after 12 hours. |
 
 # Frost
 
 | Symptom                  | Possible causes                | Solution                                                         |
 | ------------------------ | ------------------------------ | ---------------------------------------------------------------- |
-| Frost around the vents.  | * Food is blocking the vents.  | - Make sure no food blocks the refrigerator vents.               |
-| Frost on interior walls. | * Door is not closed properly. | - Make sure food does not block the door. Clean the door gasket. |
+| Frost around the vents.  | • Food is blocking the vents.  | • Make sure no food blocks the refrigerator vents.               |
+| Frost on interior walls. | • Door is not closed properly. | • Make sure food does not block the door. Clean the door gasket. |
 
 
 
@@ -1234,7 +1157,7 @@ Before calling for service, review the checkpoints below. Any service calls rela
 - When starting or ending an operation, the refrigerator may make sounds similar to a car engine igniting. As the operation stabilizes, the sounds will decrease.
 - Clicking! Buzzing! or Chirping!
 - While the fan is operating, these sounds may occur. When the refrigerator reaches the set temperature, no fan sound will occur.
-- SSSRRRR! Whir!
+- SSSRRR! Whir!
 - During a defrost cycle, water may drip on the defrost heater, causing sizzling sounds.
 - HiSS!
 
@@ -1254,6 +1177,7 @@ Before calling for service, review the checkpoints below. Any service calls rela
 
 ---
 
+
 Troubleshooting
 
 # Troubleshooting
@@ -1271,6 +1195,12 @@ Troubleshooting
 | The Wi-Fi icon is blinking. ( )                                                    | - If you fail to make connection or don’t want to use the app, press and hold the Fridge button for 10 seconds. The indicator stops blinking.                                                                                                                                                                                                                                                                     |
 
 50 English
+Untitled-1
+Untitled-1  50
+50     2024-07-23
+2024-07-23     4:46:23
+4:46:23
+
 
 ---
 
@@ -1295,7 +1225,8 @@ Untitled-1  51
 
 ---
 
-# Contact SAMSUNG WORLD WIDE
+
+Contact SAMSUNG WORLD WIDE
 
 If you have any questions or comments relating to Samsung products, please contact the SAMSUNG customer care centre.
 
@@ -1320,9 +1251,13 @@ Untitled-1  52
 
 4:46:23
 
+
+
 ---
 
+
 रेफ़््रिजरेटर
+
 # उपयोगकर््तता मगता  दर््श  क
 
 # डिंग उपकरण
@@ -1342,145 +1277,72 @@ Untitled-30  1
 ---
 
 
-# समग्य
-
 # सुरक्षा जषानकषारी
 
-3
+# मिपू  ण सुरक्षाप्र तीक और सषा्वधषान  नयषा
 
-# मिपू ण सुरक्षाप्र तीक और सषा्वधषान
+# परर्विन और सषाइ  के लिए गंभीर चेतषा्वनी च  चन
 
-6
+# मिपू  ण षापनषा  चेतषा्वन  नयषा
 
-# परर्विन और सषाइ के लिए गंभीर चेतषा्वनी च चन
+# षापनषा  सषा्वधषान  नयषा
 
-8
+# मिपू  ण उपयोग चेतषा्वन  नयषा
 
-# मिपू ण षापनषा चेतषा्वन
+# उपयोग सषा्वधषान  नयषा
 
-8
+# सफ़षाई सषा्वधषान  नयषा
 
-# षापनषा सषा्वधषान
+# मिपू  ण ननपषान चेतषा्वन   नयषा
 
-13
+# उचचत उपयोग के लिए अनतररत  युक्  तयषा
 
-# मिपू ण उपयोग चेतषा्वन
+# एनजजी सेव  ग ह्टैस
 
-13
-
-# उपयोग सषा्वधषान
-
-19
-
-# सफ़षाई सषा्वधषान
-
-21
-
-# मिपू ण ननपषान चेतषा्वन
-
-23
-
-# उचचत उपयोग के लिए अनतररत युक् तयषा
-
-24
-
-# एनजजी सेव ग ह्टैस
-
-26
-
-# यि उपकरण केि घरे ि यषा
-
-इसीप्र कषार केस््थ षान पर उपयोग क कए जषाने के लिए बनषायषा गयषा ि, जैसे कक
-
-27
+# यि उपकरण केि घरे  ि यषा   इसीप्र कषार केस््थ षान पर उपयोग क  कए जषाने के लिए बनषायषा गयषा ि, जैसे कक
 
 # WEEE के बषारे म ननदश
 
-27
-
 # षापनषा
 
-28
+# रेकफ़्जरे  र एक नज़र  म
 
-# रेकफ़्जरे र एक नज़र म
-
-28
-
-# चरण-दर-चरणस््थ षापनषा
-
-31
+# चरण-दर-चरणस््थ  षापनषा
 
 # पररचषािन
 
-36
-
 # मेन पैनि
 
-36
-
-# SmartThings (लसफ़्ण िषागू मॉिि)
-
-40
+# SmartThings (लसफ़्ण  िषागू मॉिि)
 
 # वशेष सु वधषाएँ
 
-44
-
 # रखरखषा्व
-
-45
 
 # बंधन और देखभषाि
 
-45
-
 # सफ़षाई
-
-47
 
 # नतषापन
 
-48
-
-# समस्यषा-न न्वषारण
-
-49
+# समस्यषा-न   न्वषारण
 
 # सषामषाय
 
-49
+# यषा आपको रे  कफ़्जरे   र से असषामषाय  आषाज़  सुनषाई देती ि?
 
-# यषा आपको रे कफ़्जरे र से असषामषाय आषाज़ सुनषाई देती ि?
-
-52
-
-# SmartThings (लसफ़्ण िषागू मॉिि)
-
-54
+# SmartThings (लसफ़्ण  िषागू मॉिि)
 
 # Open Source Announcement
-
-56
-
-2 हिंदी
-
-Untitled-30
-
-Untitled-30 2
-
-2024-07-24
-
-2024-07-24 5:22:24
-
-5:22:24
 
 
 
 ---
 
+
 सुरक् जनकरी
 
-• अपनषा नयषा Samsung रेकफ़्जरे र कषा उपयोग करने के पिि, कृपयषा इस मैन्यु अि को पूरी तरि पढ़ ि तषाकक यि सुननक् चत िो सके क क आपको उन सुवधषाओं और फ़ शन के संचषािन के बषारे म पतषा ि जो आपकषा नयषा उपकरण सुरक् त और द तरीके से पेश करतषा ि।
+• अपनषा नयषा Samsung रेकफ़्जरे र कषा उपयोग करने के पिि, कृपयषा इस मैन्यु अि को पूरी तरि पढ़ ि तषाकक यि सुननक् चत िो सके क क आपको उन सुवधषाओं औरफ़ शन के संचषािन के बषारे म पतषा ि जो आपकषा नयषा उपकरण सुरक् त और द तरीके से पेश करतषा ि।
 
 • यि उपकरणक् ीण शषारीर रक, सं दक यषा मषानलसक मतषा षाि य तय (बच्च सहित) के, यषा उनव् य तय के उपयोग ि तु निीं बनषायषा गयषा ि जनम अनुभ औरज् षान क कमी िो, बशतदे उन्ि उनक सुरक्षा के लिए क कसी मे दषारव् य त षारषा पय्ण्व ण, यषा उपकरण के उपयोग संबंधी ननदशप्र दषान क कयषा गयषा िो।
 
@@ -1494,6 +1356,12 @@ Untitled-30 2
 
 ज्तनक्तरी सुर
 
+Untitled-30
+Untitled-30 33 2024-07-24
+2024-07-24 5:22:24
+5:22:24
+
+
 ---
 
 ज्तनक्तरी
@@ -1501,26 +1369,23 @@ Untitled-30 2
 
 # सुर
 
-# ज्तनक्तरी
+• चूँकक ये नननलिख खत संचषािन ननदश वलभन मॉिि पर िषागू  िोते, इसलिए आपके रेकफ़्जरे र क व शेषतषाएँ इस मषाग्ण दलश्णकषा म खण्ण त वशेषतषाओं से ोड़ी लभन िो सकती ि और िो सकतषा ि सभी चेतषा्वनी चचन िषागू न ि। अगर आपके कोईप्र न यषा शंकषाएँ ि, तो अपने ननकतम सव स सर से संपक्ण कर यषा www.samsung.com पर ऑनिषाइन सिषायतषा और जषानकषारी षात कर।
 
-- चूँकक ये नननलिख खत संचषािन ननदश वलभन मॉिि पर िषागू  िोते, इसलिए आपके रेकफ़्जरे र क व शेषतषाएँ इस मषाग्ण दलश्णकषा म खण्ण त वशेषतषाओं से ोड़ी लभन िो सकती ि और िो सकतषा ि सभी चेतषा्वनी चचन िषागू न ि। अगर आपके कोईप्र न यषा शंकषाएँ ि, तो अपने ननकतम सव स सर से संपक्ण कर यषा www.samsung.com पर ऑनिषाइन सिषायतषा और जषानकषारी षात कर।
-- R-600a यषा R-134a कोप्र शीतक केरू प म योग क कयषा जषातषा ि। यि देखने के लिए कक आपके रेकफ़्जरे र के लिए कौन सषा रे कफ़्जरे र उपयोग ककयषा जषातषा ि, उपकरण के वछि हिस्से पर कं सर िबि यषा कफ़्ज के अंदर रे ह्टै ग िबि को चेक कर। इस उत्पषाद म (प्रशीतक R-600a)ज््व िनशीि गैस न नहित िोने पर, इस उत्पषाद के सु रक् त ननपषान के संबंध म अपनेस््थ षानीय षाचधकरण से संपक्ण कर।
-- शीतन सकक्ण्टै म ररसषा्व पषाए जषाने क नत म िनशीि गैस-षायु लमण के न नमषा्णण से बचने के लिए, उपकरण षाि कमरे कषा आकषार युक् त शीतक क मषाषा पर न नभ्णर िो सकतषा ि।
-- नत के िक्ण इं चगत करने षाि उपकरण को कभी आरंभ न कर। अगर कोई शंकषा ि, तो अपने िीिर से परषामश्ण ि। उपकरण के अंदर R-600a रेकफ़्जर केप्रत् ये क 8 g के लिए कमरे कषा आकषार 1 m³ िोनषा चषाहिए। आपकेव् य तगत उपकरण म रेकफ़्जर क मषाषा उपकरण के भीतर िगी पिचषानप् िे्टै पर हदखषाई गई ि।
+• R-600a यषा R-134a कोप्र शीतक केरू प म योग क कयषा जषातषा ि। यि देखने के लिए कक आपके रेकफ़्जरे र के लिए कौन सषा रे कफ़्जरे र उपयोग ककयषा जषातषा ि, उपकरण के वछि हिस्से पर कं सर िबि यषा कफ़्ज के अंदर रे ह्टै ग िबि को चेक कर। इस उत्पषाद म (प्रशीतक R-600a)ज््व िनशीि गैस न नहित िोने पर, इस उत्पषाद के सु रक् त ननपषान के संबंध म अपनेस््थ षानीय षाचधकरण से संपक्ण कर।
+
+• शीतन सकक्ण्टै म ररसषा्व पषाए जषाने क नत म िनशीि गैस-षायु लमण के न नमषा्णण से बचने के लिए, उपकरण षाि कमरे कषा आकषार युक् त शीतक क मषाषा पर न नभ्णर िो सकतषा ि।
+
+• नत के िक्ण इं चगत करने षाि उपकरण को कभी आरंभ न कर। अगर कोई शंकषा ि, तो अपने िीिर से परषामश्ण ि। उपकरण के अंदर R-600a रेकफ़्जर केप्रत् ये क 8 g के लिए कमरे कषा आकषार 1 m³ िोनषा चषाहिए। आपकेव् य तगत उपकरण म रेकफ़्जर क मषाषा उपकरण के भीतर िगी पिचषानप् िे्टै पर हदखषाई गई ि।
 
 # 4 हिंदी
 
-# Untitled-30
+Untitled-30
 
-# Untitled-30
+Untitled-30  4
 
-4
+4     2024-07-24
 
-2024-07-24
-
-2024-07-24
-
-5:22:24
+2024-07-24     5:22:24
 
 5:22:24
 
@@ -1544,9 +1409,9 @@ Untitled-30 2
 - यषादषा देर तक दरषाजषा खु िषा रखने से उपकरण के कंपषा्टै्णम कषा तषापमषान अचधक ब सकतषा ि।
 - खषाय पदषा्थ के संपक्ण म आने षािी सति को और पि च योग्य नेज लसम को न नयलमतरू प से सषाफ कर।
 - यहद 48 घं से पषानी क क कषा उपयोग निीं क कयषा गयषा ि, तो उसे सषाफ कर; यहद 5 हदन से पषानी बषािर निीं न नकषािषा गयषा ि, तो जि आपूनत्ण से जु पषानी के लसम को खषािी कर।
-- कच्चे  मषास और मछिी को उपयुक्त कं नर म िषािकर रेकफ़्जरे र म रख, तषाकक अन्य खषाय पदषा्थ्ण के संपक्ण म न आये यषा ररसकर खषाय पदषा्थ के ऊपर न चगरे।
+- कच्चे मषास और मछिी को उपयुक्त कं नर म िषािकर रेकफ़्जरे म रख, तषाकक अन्य खषाय पदषा्थ्ण के संपक्ण म न आये यषा ररसकर खषाय पदषा्थ के ऊपर न चगरे।
 
-हिंदी  5
+हिंदी 5
 
 
 
@@ -1559,13 +1424,13 @@ Untitled-30 2
 
 - पिि से जमे िए खषाय पदषा्थ को रखने, आइसक्म रखने यषा बनषाने यषा ब के क बनषाने के लिए दोस् षार  षाि  ोजन-फू ि कंपषा्टै्णम  उपयुक् त िोते   ि।
 - तषाज़षा  खषाय पदषा्थ  कोफ़््री ज करने के लिए एक, दो और तीनस् षार षाि      कंपषा्टै्णम  उपयुक् त निीं िोते ि।
-- यहद शीतन उपकरण अचधक समय से खषािी छोषा गयषा ि, तो उपकरण के अंदर फफूंदी             िगने से रोकने के लिए उसे बंद कर, डिॉ      कर           , सषाफ कर, सुखषाएँ और दरषाजे को खु    िषा छो द।
+- यहद शीतन उपकरण अचधक समय से खषािी छोषा गयषा ि, तो उपकरण के अंदर फफूंदी िगने से रोकने के लिए उसे बंद कर, डिॉ कर, सषाफ कर, सुखषाएँ और दरषाजे को खु िषा छो द।
 
 # चेवनी; आग /ज् वलनील पद क जोखिम
 
-# महत्वपूर्  सुरक् ीक और सवधन               नय
+# महत्वपूर् सुरक् ीक और सवधन नय
 
-कृपयषा  इस मैनुअि म हदए गए सभी सुरक्षा न  नदश कषा पषािन कर। यि मैन्यु  अि नीचे हदए गए सुरक्षाप्र नतक कषा उपयोग करतषा       ि  ।
+कृपयषा  इस मैनुअि म हदए गए सभी सुरक्षा न  नदश कषा पषािन कर। यि मैन्यु  अि नीचे हदए गए सुरक्षाप्र नतक कषा उपयोग करतषा       ि।
 
 # चेवनी
 
@@ -1598,21 +1463,19 @@ Untitled-30  6
 
 इस िड को पढ़ने के बद, भवी संदभता के लए उसे कसी सु रक् जगह पर रि।
 
-# हिंदी 7
+हिंदी 7
 
-# Untitled-30
+Untitled-30
 
-# Untitled-30 7
+Untitled-30 7
 
-2024-07-24
+7 2024-07-24
 
-2024-07-24
-
-5:22:24
+2024-07-24 5:22:24
 
 5:22:24
 
-# ज्तनक्तरी
+ज्तनक्तरी
 
 सुर
 
@@ -1621,7 +1484,6 @@ Untitled-30  6
 ---
 
 ज्तनक्तरी
-
 # सुर
 
 # पररवहन और सइट के लए गंभीर चे वनी गचन
@@ -1642,16 +1504,7 @@ Untitled-30  6
 - इस रेकफ़्जरे     र को सीधे सू    य्णकषाश म  न रख यषा   इसेस् ो्व,रू म  िीर यषा   अन्य उपकरण क गमजी से दू            र रख।
 
 8  हिंदी
-
-Untitled-30
-
-Untitled-30  8
-
-2024-07-24
-
-2024-07-24     5:22:24
-
-5:22:24
+Untitled-30  8  2024-07-24  5:22:24
 
 ---
 
@@ -1701,9 +1554,9 @@ Untitled-30
 
 Untitled-30  10
 
-2024-07-24
+10     2024-07-24
 
-5:22:25
+2024-07-24     5:22:25
 
 ---
 
@@ -1723,14 +1576,14 @@ Untitled-30  10
 
 हिंदी  11
 
-
+ज्तनक्तरी
 
 ---
 
 ज्तनक्तरी
 # सुर
 
-# सुर
+# सुर ज्तनक्तरी
 
 - रेकफ़्जरे र सु रक् त तरीके से षाउं ि ककयषा गयषा िोनषा चषाहिए।
 - कोई जषाच-पड़तषाि यषा उपकरण के क कसी हिस्से क मरम्मत कषा यषास करने के पिि िमेशषा सुननक् चत कर ि कक आपने रेकफ़्जरे र को षाउं ि कर लियषा ि। बबजिी के िीकेज के कषारण बबजिी के गंभीर झके िग सकते ि।
@@ -1747,28 +1600,34 @@ Untitled-30  10
 
 12 हिंदी
 
+Untitled-30
+
+Untitled-30  12
+
+2024-07-24
+
+5:22:25
+
 ---
 
 पन सवधन
-# सवधन
+# नय सवधन
 
-- रेकफ़्जरे र के आसपषास पयषा्णत षान छोड़ें और इसे सपषा्टै सति पर षावपत कर ।
-- उपकरण अंतःक् यषा समन््वषायोजन संरचनषा म मौजूद षायु संचषार षान म ककसी भी तरि क कषा्व्टै को न आने द ।
-- उपकरण क षापनषा के बषाद खषाय पदषा्थ्ण िोि करने और उपकरण को चषाि करने से पिि 2 घं के लिए उसे खड़षा रख ।
+- रेकफ़्जरे र के आसपषास पयषा्णत षान छोड़ें और इसे सपषा्टै सति पर षावपत कर।
+- उपकरण अंतःक् यषा समन््वषायोजन संरचनषा म मौजूद षायु संचषार षान म ककसी भी तरि क कषा्व्टै को न आने द।
+- उपकरण क षापनषा के बषाद खषाय पदषा्थ्ण िोि करने और उपकरण को चषाि करने से पिि 2 घं के लिए उसे खड़षा रख।
 - िम पुरजोर अनुशंसषा करते ि कक आप ककसी योग्यतषा षात तकनीलशयन यषा सव स कंपनी से रेकफ़्जरे रस््थ षावपत करषाएँ।
-- ऐसषा करने म वफि रिने पर ब बजिी कषा झकषा िग सकतषा ि, आग िग सकती ि, वफो्टै िो सकतषा ि, उत्पषाद म समस्यषाएँ िो सकती ि यषा चो िग सकती ि ।
+- ऐसषा करने म वफि रिने पर ब बजिी कषा झकषा िग सकतषा ि, आग िग सकती ि, वफो्टै िो सकतषा ि, उत्पषाद म समस्यषाएँ िो सकती ि यषा चो िग सकती ि।
 - ककसी भी एक दरषा परज़् यषादषा भषार िोने से रे कफ़्जरे र चगर सकतषा ि, जसके कषारण नत पि च सकती ि।
 
-# महत्वपूर् उपयोग चेवन नय
-
-# चेवनी
+# महत्वपूर् उपयोग चेवन नय चेवनी
 
 - गीि िषा्थ से ब बजिी कषा िग ब बजिी के सॉके म निीं िगषाएँ।
-- इसके कषारण बबजिी कषा झकषा िग सकतषा ि ।
+- इसके कषारण बबजिी कषा झकषा िग सकतषा ि।
 - उपकरण के शीष्ण पर सषामषान न रख।
-- जब आप दरषाजषा खोिते यषा बंद करते ि, तो सषामषान चगर सकते ि तषा उससेव् यतगतरू प से चो िग सकती ि और/यषा उपकरण नतत िो सकतषा ि ।
+- जब आप दरषाजषा खोिते यषा बंद करते ि, तो सषामषान चगर सकते ि तषा उससेव् यतगतरू प से चो िग सकती ि और/यषा उपकरण नतत िो सकतषा ि।
 
-हिंदी  13
+हिंदी 13
 
 ---
 
@@ -1777,23 +1636,18 @@ Untitled-30  10
 
 # सुर
 
-- िषा्थ, पै र यषा धषातु क तु ओं (जैसे चॉपक, आहद) को रे कफ़्जरे र के निनचि यषा वपछि भषाग म न िषाि।
+- िषा्थ, पै र यषा धषातु क तु ओं (जैसे चॉपक, आहद) को रे कफ़्जरे के निनचि यषा वपछि भषाग म न िषाि।
 - इसके कषारण बबजिी कषा झकषा यषा चो िग सकती ि।
 - ककसी भी नुकि ककनषारे सेव् य तगतरू प से चो िग सकती ि।
-
 - गीि िषा्थ से जर के अंदरूनी दीषार यषा जर म रखे उत्पषाद को न छुएँ।
 - इससे शीतदंश िो सकतषा ि।
-
 - पषानी से भरे पषात् को उपकरण पर न रख।
 - इसके छिकने से आग यषा बबजिी के झके कषा खतरषा िो सकतषा ि।
-
 - ज म अर यषा िनशीि तु ओं यषा पदषा्थ (बेन्ीन, च्थनर, ोपेन गैस, अल्कोिि ईर, LP गैस और ऐसे अन्य उत्पषाद) न रख।
 - यि रेकफ़्जरे र के ि भोजन के भंिषारण के लिए ि।
 - इसके कषारण आग िग सकती ि यषा वफो्टै िो सकतषा ि।
-
 - बच्च क देखरेख क जषानी चषाहिए तषाक क उनकषा उपकरण के सषा्थ न खेिनषा सुननक् चत क कयषा जषा सके।
 - उंगलिय को “वप च-पॉइं”क् से दू र रख। दरषा और कैब बने के बीच कषा षान आयकरू प से छोषा िोतषा ि। दरषाजषा खोिते समय सषा्वधषान रि यहद बच्चे आसपषास ि।
-
 - बच्च को दरषाषा यषा दरषाज़षा पषात् से ि्टैकने न द। गंभीर चो िग सकती ि।
 - बच्च को रे कफ़्जरे र के भीतर जषाने निीं द। अंदर फंस सकते ि।
 - अपने िषा्थ को उपकरण के नीचे ति म िषाि।
@@ -1803,16 +1657,8 @@ Untitled-30  10
 
 Untitled-30
 
-Untitled-30 14
-
-14 2024-07-24
-
-2024-07-24 5:22:25
-
 ---
 
-
-# सुर
 
 - रेकफ़्जरे र म औषधीय उत्पषाद, षान नक सषामचग्रयषा, यषा तषापमषान-सं दी उत्पषाद को न रख।
 - ऐसे उत्पषाद को रे कफ़्जरे र म निीं रखषा जषानषा चषाहिए जनके लिए सख्त तषापमषान न नयंण क आयकतषा िोती ि।
@@ -1821,11 +1667,14 @@ Untitled-30 14
 - अगर रेकफ़्जरे र म धूि यषा पषानी ि, तो बबजिी केप् िग को न नकषाि द और अपने Samsung इिरिॉन नस सव स सर से संपक्ण कर।
 - अन्य्थषा, आग िगने कषा जोख खम बनषा रितषा ि।
 - बच्च कोड् ॉअर पर पैर रखने न द।
+- ॉअर सकतषा ि और कफसि सकते ि।
 - जब रेकफ़्जरे र के पषास कोई न िो तो उसके दरषा को खु िषा न छोड़ें और बच्च को रे कफ़्जरे र के भीतरप्र श न करने द।
 - लशशुओं और बच्च कोड् ॉअर के भीतर न जषाने द।
 - इसके कषारण फंसने क जि से दम घु ने से मृत् यु िो सकती ि यषा ननजी चो िग सकती ि।
 - रेकफ़्जरे र को खषाय पदषा्थ सेज् यषादषा न भर द।
 - जब आप दरषाजषा खोिते ि, तो कोई सषामषान चगर सकतषा ि तषा उससेव् य तगतरू प से चो िग सकती ि यषा सषामी नतत िो सकती ि।
+
+हिंदी 15
 
 
 
@@ -1835,8 +1684,6 @@ Untitled-30 14
 # सुर
 
 # सुर
-
-# ज्तनक्तरी
 
 - उपकरण क सति पर कनषाशक जैसेज््व िनशीि पदषा्थ्ण कषा न कर।
 - मषान के लिए खतरनषाक िोने के सषा्थ-सषा्थ, इसके पर रणषामस््वरूप बबजिी कषा झकषा, आग िग सकती ि, यषा उत्पषाद म समस्यषाएँ आ सकती ि।
@@ -1856,8 +1703,6 @@ Untitled-30 14
 ---
 
 
-# सुर
-
 - कफ़्ज के शेल्फ को उल्षा करके न रख। शेल्फ़स् पर शषायद कषाम न करे।
 - इससे कषाच क शेल्फ के चगरने के कषारण न नजी चो िग सकती ि।
 - यहद गैस ररसषा्व कषा पतषा िगतषा ि, तो अन यषा िन के संभषाव त ोत से बच
@@ -1871,7 +1716,7 @@ Untitled-30 14
 - यं रे कफ़्जरे र क मरम्मत, उसके पु जदे खोिने यषा उसेरू पषा तररत करने कषा यषास न कर।
 - अनचधकृतरू पषा तरण से सुरक्षा संबंधी समस्यषाएँ िो सकती ि।
 - अनचधकृतरू पषा तरण को पूणतयषा पि्टैने के लिए, िम पषाट््णस और म क पू री िषागत िगे।
-- मषानकफ् यू के अिषा्वषा क कसी अन्य यू (जैसे तषा बे,स् ीि के तषार, आहद) कषा उपयोग न कर।
+- मषानकफ् यू के अिषा्वषा क कसी अन्य यू (जैसे तषा बे, स् ीि के तषार, आहद) कषा उपयोग न कर।
 - यहद आपके रेकफ़्जरे र को मरम्मत यषा पु नःस््थ षावपत करने क जरूरत ि, तो अपने ननकतम सव
 - स सर से संपक्ण कर।
 - ऐसषा करने म वफि रिने पर ब बजिी कषा झकषा िग सकतषा ि, आग िग सकती ि, उत्पषाद म समस्यषाएँ िो सकती ि यषा चो िग सकती ि।
@@ -1902,8 +1747,8 @@ Untitled-30 14
 18 हिंदी
 <page_footer>Untitled-30</page_footer>
 <page_footer>Untitled-30  18</page_footer>
-<page_footer>18     2024-07-24</page_footer>
-<page_footer>2024-07-24     5:22:25</page_footer>
+<page_footer>2024-07-24</page_footer>
+<page_footer>5:22:25</page_footer>
 
 ---
 
@@ -1936,8 +1781,7 @@ Untitled-30 14
 - सव स षारं ी औररू पषा तरण।
 - इस तैयषार उपकरण पर तृतीय प षारषा क कयषा गयषा कोई भी परर्वत्ण न यषा पषा तरण Samsung षारं ी से षा म शषालमि निीं िोतषा ि, और न िी तृतीय प केरू पषा तरण से िोने षािी सु रक्षा समस्यषाओं के लिए Samsung मे दषार ि।
 - रेकफ़्जरे र के भीतर ि्वषा के न नकषासी नछर्द अ न कर।
-- अगर षायु ननकषास अरोचधत िो जषाते ि , वशेषरू प सेप् िषाक्स््टैक बैग से, तो रेकफ़्जरे र आयकतषा से अचधक िषा िो सकतषा ि।
-- अगर कूलिंग अचध बि त देर तक बनी रिती ि, तो पषानी कषा कफ़र सकतषा ि और पषानी ररस सकतषा ि।
+- अगर षायु ननकषास अरोचधत िो जषाते ि , वशेषरू प सेप् िषाक्स््टैक बैग से, तो रेकफ़्जरे र आयकतषा से अचधक िषा िो सकतषा ि। अगर कूलिंग अचध बि त देर तक बनी रिती ि, तो पषानी कषा कफ़र सकतषा ि और पषानी ररस सकतषा ि।
 - भीतर से अचधक नमी को पछ द और दरषा को खु िषा छोड़ द।
 - अन्य्थषा, दु गध और फफूँद उत्पन िो सकती ि।
 - यहद रेकफ़्जरे र को ब बजिी आपूनत्ण से डिस्कनेक् कर हदयषा गयषा ि , तो षापसप् िग इन करने के लिए आपको कम से कम पषा च लमन तक तीक्षा करनषा चषाहिए।
@@ -1979,20 +1823,21 @@ Untitled-30 14
 
 # सुर
 
-- बबजिी केप् िग से क किीं बषािरी पदषा्थ्ण यषा धूि ि्टैषाने के लिए सषा, सूखे कपड़ कषा उपयोग कर। प् िग सषा करते समय गीि यषा नम कपड़ कषा उपयोग निीं कर।
+- बबजिी केप् िग से क किीं बषािरी पदषा्थ्ण यषा धूि ि्टैषाने के लिए सषा,
+सूखे कपड़ कषा उपयोग कर। प् िग सषा करते समय गीि यषा नम कपड़ कषा उपयोग निीं कर।
 - अन्य्थषा, इससे आग यषा ब बजिी के झके कषा खतरषा िोतषा ि।
 - उपकरण पर सीधे पषानी कषा करके उसे सषाफ न कर।
 - सफषाई के लिए बजीन, च्थनर, यषा िोरोक्स, क् िोरषाइि कषा उपयोग न कर।
 - उपकरण क सति को नत पि चषा सकते ि और आग िगषा सकते ि।
-- सफषाई यषा रखरखषा्व करने से पिि, उपकरण कषा िग दीषार के सॉके से निनकषाि द।
+- सफषाई यषा रखरखषा्व करने से पिि, उपकरण कषा िग दीषार के सॉके ननकषाि द।
 - ऐसषा करने म वफि रिने पर ब बजिी कषा झकषा यषा आग िग सकती ि।
 - रेकफ़्जरे र को सषाफ़ करने के लिए रे कफ़्जरे रस् पंज यषा मु िषायम कपड़ और गम्ण पषानी म सौम्य डिज कषा योग कर।
 - बषािरी सति (दरषाजे और कैब बने), प् िषाक्स््टैक के हिस्स, दरषाजे और इंीर रयर िषाइनर और गैस्के्टै को खु रदुरे यषा खेक् िीनर, जैसे क क खखक केस्, मषाज्णक, ज््व िनशीि तरि पदषा्थ्ण, म् यू रीएह्टैक एलसि, िीन नग स, गषाढ़ डिज, ब् िीच यषा िीनर कषा योग न कर।
 - इससे सषामी पर खरच यषा नु कसषान िो सकतषा ि।
-- कषाच के शेल्फ यषा कस्ण को ि िोने पर गम्ण पषानी से सषाफ़ नषा कर।
+- कषाच के शेल्फ यषा कस्ण को ि होने पर गम्ण पषानी से सषाफ़ नषा कर।
 - तषापमषान म अचषानक परर्वत्ण न यषा बपंग यषा चगरने जैसेप्र भषा्व से कषाच के शेल्फ यषा कस्ण           सकते ि।
 
-# 22 हिंदी
+22 हिंदी
 
 Untitled-30
 
@@ -2002,19 +1847,19 @@ Untitled-30  22
 
 2024-07-24     5:22:26
 
-
+5:22:26
 
 ---
 
 
-# महत्वपूर्ण निपटान के वन नियम
+# महत्वपूर्ण निपटान के वन
 
-- कृपया इस उत्पाद का पैकेजिंग सही तरीके से करें।
+- कृपया इस उत्पाद का पैकेजिंग सटीकता से करें।
 - निपटान से पहले सुनिश्चित करें कि रेफ्रिजरेटर के पीछे कोई भी प्लग न हो।
-- R-600a या R-134a कोप्र शीतक के रूप में उपयोग करने से पहले यह देखने के लिए कि आपके रेफ्रिजरेटर के लिए कौन सा सही है, उपकरण के पिछले हिस्से पर कंसरिब के अंदर रेफ्रिजरेंट की जांच करें। इस रेफ्रिजरेटर में (प्रशीतक R-600a) यदि निर्दिष्ट गैस नहीं है, तो इस उत्पाद के सुरक्षित निपटान के संबंध में अपने स्थानीय प्राधिकरण से संपर्क करें।
+- R-600a या R-134a कोप्र शीतक के रूप में उपयोग किया जाता है। यह देखने के लिए कि आपके रेफ्रिजरेटर के लिए कौन सा शीतक उपयोग किया गया है, उपकरण के पिछले हिस्से पर कंसरिब के अंदर रेफ्रिजरेंट को चेक करें। इस रेफ्रिजरेटर में (प्रशीतक R-600a) यदि निर्दिष्ट गैस नहीं है, तो इस उत्पाद के सुरक्षित निपटान के संबंध में अपने स्थानीय प्राधिकरण से संपर्क करें।
 - इस रेफ्रिजरेटर का निपटान करते समय, दरवाजे/दरवाजे की सील, दरवाजे की लस्टैकनी न निकालें ताकि बच्चे इसके अंदर न फँस जाएँ। बच्चों की देखरेख करनी चाहिए ताकि वे उपकरण के साथ न खेलें। अंदर फँस जाने पर, बच्चे को चोट लग सकती है या दम घुटने से मृत्यु हो सकती है।
-- रोधन में सशक्तिकरण का उपयोग न करें। रोधन सशामिक में मौजूद गैस के लिए विशेष निपटान प्रक्रिया होती है। इस उत्पाद के सुरक्षित निपटान के संबंध में अपने स्थानीय प्राधिकरण से संपर्क करें।
-- सभी पैकेजिंग सशामिक को बच्चों की पहुँच से दूर रखें, क्योंकि पैकेजिंग सशामिक बच्चों के लिए खतरनाक हो सकती है।
+- रोधन में सटीकता का उपयोग होता है। रोधन सटीकता में मौजूद गैस के लिए विशेष निपटान प्रक्रिया होती है। इस उत्पाद के पर्यावरण के सुरक्षित निपटान के संबंध में अपने स्थानीय प्राधिकरण से संपर्क करें।
+- सभी पैकेजिंग सामग्री को बच्चों की पहुँच से दूर रखें, क्योंकि पैकेजिंग सामग्री बच्चों के लिए खतरनाक हो सकती है।
 - यदि कोई बच्चा अपने लसर पर बैग रखता है, तो बच्चे को दम घुटने का खतरा हो सकता है।
 
 
@@ -2022,7 +1867,6 @@ Untitled-30  22
 ---
 
 ज्तनक्तरी
-
 # सुर
 
 # सुर
@@ -2030,17 +1874,16 @@ Untitled-30  22
 # ज्तनक्तरी
 
 - खतरषा: बच्चे के फंसने कषा जोखखम। अपने पुरषाने रेकफ़्जरे र यषा र को फकने से पिि:
-- दरषा को निनकषाि द।
-- शेल्फ़ को सिी जगि रख तषाकक बच्चे आसषानी से अंदर न चढ़ सक।
 
 # उगचर् उपयोग के लए अनर्र र यु य
 
 - बबजिी क खरषाबी िोने क नत म, अपनी इि रिक कंपनी के षानीय कषायषा्णिय को ोन करके पू छ कक बबजिी ककतनी देर तक बंद रिगी।
-- एक यषा दो घं म सुधषार िी जषाने षािी अचधकतर ब बजिी खरषाबबयषा आपके रेकफ़्जरे र तषापमषान कोप्र भषाव त निीं कर गी। िषािषाकक, बबजिी न िोने पर आपको दरषाषा बषार-बषार निीं खोिनषा चषाहिए।
-- िउककन अगर बबजिी 24 घं से अचधक समय तक निीं आती ि, तो सभीफ़् ोजन खषाय पदषा्थ को न नकषाि और फक द।
-- रेकफ़्जरे र संभतः िगषातषार कषाम न कर सके (फ़्ोजन सषामचग्रय म गरमषाि्टै आ सकती ि यषा ोजन कंपषा्टै्णम म तषापमषान बित गम्ण िो सकतषा ि) यहद इसे ककसी ऐसेस््थ षान पर ि बे समय के लिए रखषा जषाए जिषा कषा परर्व शी षायु तषापमषान उस तषापमषान से िगषातषार कम िो जसम कषाम करने के लिए इस उपकरण को तैयषार कयषा गयषा ि।
+- - एक यषा दो घं म सुधषार िी जषाने षािी अचधकतर ब बजिी खरषाबबयषा आपके रेकफ़्जरे र तषापमषान कोप्र भषाव त निीं कर गी। िषािषाकक, बबजिी न िोने पर आपको दरषाषा बषार-बषार निीं खोिनषा चषाहिए।
+- िककन अगर बबजिी 24 घं से अचधक समय तक निीं आती ि, तो सभीफ़् ोजन खषाय पदषा्थ को न नकषाि और फक द।
+
+रेकफ़्जरे र संभतः िगषातषार कषाम न कर सके (फ़्ोजन सषामचग्रय म गरमषाि्टै आ सकती ि यषा ोजन कंपषा्टै्णम म तषापमषान बित गम्ण िो सकतषा ि) यहद इसे ककसी ऐसेस््थ षान पर ि बे समय के लिए रखषा जषाए जिषा कषा परर्व शी षायु तषापमषान उस तषापमषान से िगषातषार कम िो जसम कषाम करने के लिए इस उपकरण को तैयषार कयषा गयषा ि।
 - वशेष खषाय पदषा्थ के मषामि म, उन्ि शीतन के तित रखने से उनके गुण के संरण पर बु रषा असर िो सकतषा ि।
-- आपकषा उपकरण तुषषार मुक्त ि, जसकषा अ ि कक अपने उपकरण को मैन्यु अि प से व हिमीकृ त करने क आयकतषा निीं ि। यि चषालितरू प से िो जषाएगषा।
+- आपकषा उपकरण तुषषार मुक्त ि , जसकषा अ ि कक अपने उपकरण को मैन्यु अि प से व हिमीकृ त करने क आयकतषा निीं ि। यि चषालितरू प से िो जषाएगषा।
 
 24 हिंदी
 
@@ -2048,9 +1891,7 @@ Untitled-30
 
 Untitled-30 24
 
-24 2024-07-24
-
-2024-07-24 5:22:26
+2024-07-24
 
 5:22:26
 
@@ -2059,7 +1900,7 @@ Untitled-30 24
 
 # वहिमीकरण के दौरषान तषापमषान म बढ़ोतरी ISO अपेक्षाओं कषा अनु पषािन करती ि।
 
-अगर आप उपकरण के वहिमीकरण के दौरषान फ़् ोजन खषाय पदषा्थ्ण के तषापमषान म अनषा्व्चयक वद्ध से बचनषा चषािते ि, तो फ़् ोजन खषाय पदषा्थ्ण को समषाचषारप क कई परत म िपे द।
+अगर आप उपकरण के वहिमीकरण के दौरषान फ़्ोजन खषाय पदषा्थ्ण के तषापमषान म अनषा्व्चयक वद्ध से बचनषा चषािते ि, तो फ़्ोजन खषाय पदषा्थ्ण को समषाचषारप क कई परत म िपे द।
 
 उन जमे भोजन को कफर न जमषाएँ जो पू री तरि वपघि चुक ि।
 
@@ -2070,6 +1911,20 @@ Untitled-30 24
 दो लसतषारषा खंि यषा कंपषा्टै्णम न नदश पर और/यषा सुपुद्ण करते समय क नत पर आधषार रत िोते ि।
 
 हिंदी 25
+
+Untitled-30
+
+Untitled-30 25
+
+25 2024-07-24
+
+2024-07-24 5:22:26
+
+5:22:26
+
+# ज्तनक्तरी
+
+सुर
 
 
 
@@ -2084,11 +1939,11 @@ Untitled-30 24
 
 - पयषा्णत ि्वषादषार  षाि  एक ि, शुष्क कमरे म उपकरणस््थ षावपत कर।
 - सुननक् चत कर कक यि सीधे सूय्ण क रोशनी के संपक्ण म निीं आए और इसे कभी भी गमजी के सीधेस् ोत (उदषािरण के लिए रेडिएर) के पषास निीं रख।
-- ऊजषा्ण दतषा के लिए क कसी भी छेद और चग्रि को अ करने क लसफषाररश निीं क जषाती ि।
-- उपकरण म रखने से पिि गम्ण भोजन को िषा िोने द।
-- जमे िए भोजन को वपघिषाने के लिए रेकफ़्जरे म रख। कफर आप रेकफ़्जरे म भोजन को िषा करने के लिए जमे िए उत्पषाद के कम तषापमषान कषा उपयोग कर सकते ि।
-- रेकफ़्जरे म खषानषा रखने यषा ननकषािने के दौरषान बित िबे समय तक इसकषा दरषाजषा खु िषा न रख। दरषाजषा खु िषा रिने कषा समय जतनषा कम िोगषा, फ़््रीज़ र को िषा िोने म उतनषा िी कम समय िगेगषा।
-- रेकफ़्जरे र को पीछे और क कनषार के आस-पषास कु छ दूरी पर रखने क लसफषाररश क जषाती ि। इससे बबजिी क खपत घने और आपके ऊजषा्ण बबि को कम रखने म सिषायतषा लमिगी।
+- ऊजषा्ण दतषा के लिए क   कसी भी छेद और चग्रि को अ करने क लसफषाररश निीं क जषाती ि।
+- उपकरण म रखने से पिि गम्ण भोजन को िषा िोने  द।
+- जमे िए भोजन को वपघिषाने के लिए रेकफ़्जरे र म रख। कफर आप रेकफ़्जरे र म भोजन को िषा करने के लिए जमे िए उत्पषाद के कम तषापमषान कषा उपयोग कर सकते ि।
+- रेकफ़्जरे र म खषानषा रखने यषा ननकषािने के दौरषान बित िबे समय तक इसकषा दरषाजषा खु िषा न रख। दरषाजषा खु िषा रिने कषा समय जतनषा कम िोगषा, फ़््रीज़ र को िषा िोने  म उतनषा िी कम समय िगेगषा।
+- रेकफ़्जरे र को पीछे और क कनषार के आस-पषास कु छ दूरी पर रखने क लसफषाररश क जषाती  ि। इससे बबजिी क खपत घने और आपके ऊजषा्ण बबि को कम रखने म सिषायतषा लमिगी।
 - ऊजषा्ण के सबसे कुशि उपयोग के लिए, ननमषा्णतषा षारषा बतषाए गएस््थ षान पर सभी आंतररक कफ़ह्टै ग जैसे बषाके्टै, ड् ॉवर, शेल्फ़ को रख।
 
 26 हिंदी
@@ -2107,11 +1962,9 @@ Untitled-30 24
 
 # WEEE के बरे म ननद
 
-इस उत्प्तद क सही न नपटन (अपट इले रिकल एवं इलेक्रिरॉन नक उपकर) (पृक संह लय वले दे म लगू )
+इस उत्प्तद क सही न नपटन (अपट इले रिकल एवं इलेक्रिरॉन नक उपकर) (पृक संह लय वले दे म लगू ) इस उत्पषाद, सिषायक उपकरण यषा इसके दस्तषा्व पर त च चनषांकन दशषा्णतषा ि कक इस उत्पषाद, इसके इि रिॉन नक सिषायक उपकरण (जैसे चषाज्ण र, ििसे, USB केबि) कषा जीनकषाि समषात िोने पर उनकषा न नपषान अन्य घरे ि कचरे के सषा्थ निीं क कयषा जषानषा चषाहिए।
 
-इस उत्पषाद, सिषायक उपकरण यषा इसके दस्तषा्व पर त च     चनषांकन दशषा्णतषा ि  कक इस उत्पषाद, इसके इि रिॉन नक सिषायक उपकरण (जैसे चषाज्ण र, ििसे, USB केबि) कषा जीनकषाि समषात िोने पर उनकषा  न  नपषान अन्य  घरे  ि कचरे के सषा्थ निीं क कयषा जषानषा चषाहिए।
-
-अननयंबत्त अपलश   ननपषान से पयषा्ण्वरण और मनुष्  य को िोने षाि   नुकसषान को रोकने के लिए, कृपयषा  इन आइम को अन्य कषार के कचरे से अिग कर द             और सषामी संसषाधन के दीघ्ण  कषालिक पुनः उपयोग को बढ़षा्वषा  देने के लिए उन्ि  मे  दषारी से ररसषाइकि कर।
+अननयंबत्त अपलश ननपषान से पयषा्ण्वरण और मनुष् य को िोने षाि नुकसषान को रोकने के लिए, कृपयषा इन आइम को अन्य कषार के कचरे से अिग कर द             और सषामी संसषाधन के दीघ्ण कषालिक पुनः उपयोग को बढ़षा्वषा  देने के लिए उन्ि  मे  दषारी से ररसषाइकि कर।
 
 सुरक् त न नपषान और र रसषाइकि करने के बषारे  म अचधक जषानकषारी के लिए िमषारी बसषाइ     www.samsung.com/in/support पर जषाएँ यषा       नीचे हदए िमषारे   ि पिषाइन नंबर - 1800 40 SAMSUNG (1800 40 7267864) पर संपक्ण कर।
 
@@ -2123,23 +1976,23 @@ Untitled-30 24
 
 पन्त
 
-इस रेकफ़्जरे र क उच चतस््थ षापनषा और इसके उपयोग से पिि दुघ्ण्टैनषाओं क रोकषाम सु ननक् चत करने के लिए इन ननदश कषा यषानपू क पषािन कर।
+इस रेकफ़्जरे  र क उच चतस््थ  षापनषा और इसके उपयोग से पिि  दुघ्ण्टैनषाओं क रोकषाम सु  ननक् चत करने के लिए इन ननदश कषा यषानपू       क पषािन कर।
 
 # चेवनी
 
-- रेकफ़्जरे र कषा उपयोग इस न नदश पुतकषा म खण्ण त ननयत उद् य के लिए िी कर।
-- ककसी भीप्र कषार क सव लसग केि योग्यतषा-षात तकनीलशयन षारषा क जषानी चषाहिए।
-- षानीय व न नयम के अनु पषािन म उत्पषाद पैके ज ग सषामी कषा न नपषान।
+- रेकफ़्जरे  र कषा उपयोग इस न नदश पुतकषा म  खण्ण त ननयत उद्         य के लिए िी कर ।
+- ककसी भीप्र कषार क  सव     लसग केि योग्यतषा-षात  तकनीलशयन षारषा  क जषानी चषाहिए।
+- षानीय व    न     नयम के अनु पषािन म उत्पषाद पैके ज ग सषामी कषा  न नपषान।
 
 # रेफ़््रिजरेटर एक नज़र म
 
-नोट: मॉिि और देश के आधषार पर, रेकफ़्जरे र क षातव क छव औरप्र दषान क कए गए हिस्से लभन िो सकते ि।
+नोट: मॉिि और देश के आधषार पर, रेकफ़्जरे   र क षातव       क छव  औरप्र दषान क    कए गए हिस्से  लभन िो सकते ि ।
 
 01
 
 02
 
-04 03
+04    03
 
 05
 
@@ -2147,11 +2000,11 @@ Untitled-30 24
 
 Untitled-30
 
-Untitled-30 28
+Untitled-30  28
 
-28 2024-07-24
+28     2024-07-24
 
-2024-07-24 5:22:26
+2024-07-24     5:22:26
 
 5:22:26
 
@@ -2164,9 +2017,9 @@ Untitled-30 28
 
 # एक्                श कफ़र *
 
-# ज्टै  बि ॉर
+ज्टै  बि ॉर
 
-* लसफ़्ण          उपयुक्त मॉिि
+- लसफ़्ण          उपयुक्त मॉिि
 
 र कंपटताम                 ट म टोरेज के लए अगधक जगह सु                   रक्  करने के      लए
 
@@ -2201,7 +2054,7 @@ Untitled-30 28
 
 आपकषा रेकफ़्जरे  र व लभन कषार और आकषार के िोर बबन के सषा्थ भेजषा जषातषा ि। अगर आपके रेकफ़्जरे  र के िोर बबन अिग-अिग पैक ककए गए ि, तो उन्ि तस््वीर देखकर सिी पोीशन   म   असेम्बि कर ।
 
-# नोट
+नोट
 
 मॉिि और देश के अनुसषार, षातव  क रे    कफ़्जरे  र और आपके रेकफ़्जरे    र म    हदए गए पु , इस मैन्यु  अि म हदए गए चचत्ण से लभन िो सकते       ि  ।
 
@@ -2222,59 +2075,56 @@ Untitled-30  30
 
 # चर-दर-चर पन
 
-# चर 1
+चर 1       कोई एक सइट चु न
 
-कोई एक सइट चु न
+# षान क      आयकतषाएँ:
 
-# षान क आयकतषाएँ:
-
-- होस, समति सति बगैर क कसीप्र कषार के कषापदे्टै यषा िोर रग के जो कक ह्टैि शन को बषाचधत कर सकते ि
+- ोस, समति सति बगैर क कसीप्र कषार के कषापदे्टै  यषा िोर    रग के जो कक       ह्टैि  शन को बषाचधत कर सकते ि
 - सीधी धूप से दूर
-- दरषाषा खोिने और बंद करने के लिए पयषा्णत जगि
-- गमजी केस् ोत से दू र
-- रख-रखषा्व और सव लसग के लिए जगि
-- तषापमषान सीमषा: 10 °C से 43 °C के बीच
+- दरषाषा  खोिने और बंद करने के लिए पयषा्णत  जगि
+- गमजी    केस्  ोत से दू र
+- रख-रखषा्व     और सव     लसग के लिए जगि
+- तषापमषान सीमषा: 10      °C से 43 °C के बीच
 
 # भषा्वी तषापमषान सीमषा
 
-रेकफ़्जरे र को इसप्र कषार डिज़षाइन क कयषा गयषा ि कक यि अपनी णी रेह्टै ग म ननहद्ण तषापमषान सीमषा म सषामषाय प से कषाम करे।
+रेकफ़्जरे  र को इसप्र कषार डिज़षाइन क  कयषा गयषा ि कक यि अपनी  णी रेह्टै      ग म ननहद्ण तषापमषान सीमषा म सषामषाय    प से कषाम करे।
 
-| पररवेी पमन सीम (°C) | IEC 62552 (ISO 15502) | ISO 8561      |
-| ------------------- | --------------------- | ------------- |
-| वतृ त               | SN +10 से +32 तक      | +10 से +32 तक |
-| पररलमत              | N +16 से +32 तक       | +16 से +32 तक |
-| उपोष्णकह्टैबंधीय    | ST +16 से +38 तक      | +18 से +38 तक |
-| उष्णकह्टैबंधीय      | T +16 से +43 तक       | +18 से +43 तक |
+| पररवेी पमन सीम (°C) | सी ीक | IEC 62552 (ISO 15502) | ISO 8561      |
+| ------------------- | ----- | --------------------- | ------------- |
+| वतृ त पररलमत        | SN    | +10 से +32 तक         | +10 से +32 तक |
+| पररलमत              | N     | +16 से +32 तक         | +16 से +32 तक |
+| उपोष्णकह्टैबंधीय    | ST    | +16 से +38 तक         | +18 से +38 तक |
+| उष्णकह्टैबंधीय      | T     | +16 से +43 तक         | +18 से +43 तक |
 
 # नोट
 
-रेकफ़्जरे कषा कू लिंगप्र दश्ण न और बबजिी उपभोग परर्व शी तषापमषान, दरषाषा खु िने क आ त, रे कफ़्जरे र के षान सेप्र भषाव त िो सकतषा ि। िम तषापमषान सेह्टै ग को उपयुक्ततषानु सषार समषायोजत करने क अनु शंसषा करते ि।
+रेकफ़्जरे  र कषा कू लिंगप्र दश्ण न और बबजिी उपभोग परर्व     शी तषापमषान, दरषाषा खु   िने क आ त, रे      कफ़्जरे  र के षान सेप्र भषाव   त िो सकतषा      ि     । िम तषापमषान सेह्टै ग को उपयुक्ततषानु सषार समषायोजत करने क अनु शंसषा     करते ि।
 
 
 
 ---
 
 
-# पन्त
+पन्त
 
-# स्र्थ्तपन्त
+स्र्थ्तपन्त
 
 िीयर   स
 
 षापनषा के लिएस््थ षान क आयकतषाओं के बषारे म  जषानने के लिए नीचेप्र दषान च चत् और तषालिकषा दे ख।
 
-| गहरई “A” |    | 725           |                                |         |
-| -------- | -- | ------------- | ------------------------------ | ------- |
-|          |    | चौड़ई “B”     | 790                            |         |
-| A        |    | ऊचई “C”       | 1855                           |         |
-|          | C  |               | (इकषाई: लममी)                  |         |
-|          |    | B             |                                |         |
-|          |    | 01            | 50 mm से अचधक क लसफषाररश क     | जषाती ि |
-| 03       | 03 | 02            | 115° (फ़््रीजर) / 120° (कफ़्ज) |         |
-|          | 05 | 03            | कम से कम 50 mm                 |         |
-|          | 04 | 1140          |                                |         |
-| 02       | 05 | 1447          |                                |         |
-| 04       |    | (इकषाई: लममी) |                                |         |
+| गहरई “A” |                            | 725           |                                |                |
+| -------- | -------------------------- | ------------- | ------------------------------ | -------------- |
+|          |                            | चौड़ई “B”     | 790                            |                |
+| A        |                            | ऊचई “C”       | 1855                           |                |
+|          | C                          |               | (इकषाई: लममी)                  |                |
+|          |                            | B             |                                |                |
+| 01       | 50 mm से अचधक क लसफषाररश क | 01            | जषाती ि                        |                |
+| 03       | 03                         | 02            | 115° (फ़््रीजर) / 120° (कफ़्ज) |                |
+|          |                            | 05            | 03                             | कम से कम 50 mm |
+| 04       | 1140                       | 02            | 05                             | 1447           |
+| 04       |                            | (इकषाई: लममी) |                                |                |
 
 32 हिंदी
 
@@ -2293,35 +2143,52 @@ Untitled-30  32
 ---
 
 
-
 # चर 2  अंर (केवल उपयुक्  मरॉडल)
 
 1. दरषाषा  खोि  औरप्र दषान क कए गएस् पे सस्ण को खोज (x2)।
-2. दोन पे  सस्ण को पैक से निनकषाि और उन्ि दलश्ण त तरीके से रेकफ़्जरे  र के वछि हिस्से  म िगषा द। वछि दीषार  म षायु  संचषाररत करने म मदद करते ि और ऊजषा्ण  खपत बचषाते ि।
+2. दोन पे  सस्ण को पैक से निनकषाि और उन्ि दलश्ण त तरीके से रेकफ़्जरे  र के वछि हिस्से म िगषा द। वछिी दीषार म षायु  संचषाररत करने म मदद करते ि और ऊजषा्ण खपत बचषाते ि।
 
 # चर 3  सह
 
-- रेकफ़्जरे  र को इंस्ॉि करने षािी सति को पू                   री तरि से िोि ककए गए रेकफ़्जरे  र यषा                      िगभग 90 kg को सपो  देनषा       चषाहिए।
-- श्ण        क सु रक्षा के लिए, रे कफ़्जरे  र केप्रत्  ये  क पषा  के नीचे कषाि्ण    बोि्ण कषा एक बड़षा            कड़षा  रख द ।
-- रेकफ़्जरे  र के अपने अं      नतमस््थ षान पर आ जषाने के बषाद, इसे तब तक न हििषाएँ जब तकफ़                        श्ण क सु रक्षा के लिए ऐसषा       करनषा   आयक न िो। अगर आपको करनषा िी पड़                तो मो           कषागज़ यषा कपड़षा     जैसे क क पुरषानी दरी कषा       उपयोग गनत प के सषा्थ   कर ।
+- रेकफ़्जरे  र को इंस्ॉि करने षािी सति को पूरी तरि से िोि ककए गए रेकफ़्जरे  र यषा लगभग 90 kg को सपो  देनषा चषाहिए।
+- श्ण क सु रक्षा के लिए, रे कफ़्जरे  र केप्रत् ये क पषा  के नीचे कषाि्ण    बोि्ण कषा एक बड़षा            कड़षा  रख द ।
+- रेकफ़्जरे  र के अपने अं नतमस््थ षान पर आ जषाने के बषाद, इसे तब तक न हििषाएँ जब तकफ़ श्ण क सु रक्षा के लिए ऐसषा करनषा आयक न िो। अगर आपको करनषा िी पड़ तो मो कषागज़ यषा कपड़षा जैसे क क पुरषानी दरी कषा       उपयोग गनत प के सषा्थ   कर ।
 
 
 
 ---
 
-पन्त
 
-# चर 4          समलीकर पय को समयोजर् कर
 
-- इंस्ॉि िोने पर, रे कफ़्जरे  र को सपषा्टै, ोसफ़ श्ण पर िलिंग करनषा चषाहिए। रे कफ़्जरे  र क ि लिंग न करने से रेकफ़्जरे  र को नु कसषान यषा बषाय चो िग सकती ि।
-- रेकफ़्जरे  र के खषािी िोने पर ि लिंग करनी चषाहिए। सु ननक् चत कर कक कोई भी खषाय पदषा्थ्ण रेकफ़्जरे  र के अंदर न िो।
-- सुरक्षा कषारण से, सषामने के हिस्से को पीछे के हिस्से के मुकषाबि ोड़षा ऊपर रख। रेकफ़्जरे  र को सषामने के पैर पर व शेषस्क् (ििर) कषा उपयोग करके ि ि कर। ििर को घु मषाने के लिएफ् िै्टै-ि ि  षाइर कषा उपयोग कर।
+# पन्त
 
-िलिंग फ को मैन्यु अि प से समषायोजत करके रेकफ़्जरे  र कषा ि ि कर। पोज़ीशन को नीचे करने के लिए िलिंग फ कोक् िॉकषाइज घु मषाएं यषा ऊपर उषाने के लिए एं ीक्िॉकषाइज घु मषाएं। सुरक्षा कषारण से, सषामने के हिस्से को पीछे के हिस्से के मुकषाबि ोड़षा ऊपर रख।
+# स्र्थ्तपन्त
 
-िलिंग को हदखषाए गए अनु सषारफ़ श्ण  से 41 लममी (A) उषाएं।
+# चर 4
+
+समलीकर पय को समयोजर् कर
+
+- इंस्ॉि िोने पर, रे कफ़्जरे र को सपषा्टै, ोसफ़ श्ण पर िलिंग करनषा चषाहिए। रे कफ़्जरे र क ि लिंग न करने से रेकफ़्जरे र को नु कसषान यषा बषाय चो िग सकती ि।
+- रेकफ़्जरे र के खषािी िोने पर ि लिंग करनी चषाहिए। सु ननक् चत कर कक कोई भी खषाय पदषा्थ्ण रेकफ़्जरे र के अंदर न िो।
+- सुरक्षा कषारण से, सषामने के हिस्से को पीछे के हिस्से के मुकषाबि ोड़षा ऊपर रख। रेकफ़्जरे र को सषामने के पैर पर व शेषस्क् (ििर) कषा उपयोग करके ि ि कर। ििर को घु मषाने के लिएफ् िै्टै-ि ि  षाइर कषा उपयोग कर।
+
+िलिंग फ को मैन्यु अि प से समषायोजत करके रेकफ़्जरे र कषा ि ि कर। पोज़ीशन को नीचे करने के लिए िलिंग फ कोक् िॉकषाइज घु मषाएं यषा ऊपर उषाने के लिए एं ीक्िॉकषाइज घु मषाएं। सुरक्षा कषारण से, सषामने के हिस्से को पीछे के हिस्से के मुकषाबि ोड़षा ऊपर रख।
+
+िलिंग को हदखषाए गए अनु सषारफ़ श्ण से 41 लममी (A) उषाएं।
+
+A
 
 34 हिंदी
+
+Untitled-30
+
+Untitled-30  34
+
+34     2024-07-24
+
+2024-07-24     5:22:28
+
+
 
 ---
 
@@ -2376,35 +2243,37 @@ Freezer (जर) के बन को -15 °C और -23 °C के बीच �
 
 आपकेप्रत् ये क बषार बन दबषाने पर, तषापमषान न नन म म बदि जषातषा:
 
-| -23 °C                                                                                                               | -15 °C | -17 °C | -19 °C | -21 °C | -23 °C |
-| -------------------------------------------------------------------------------------------------------------------- | ------ | ------ | ------ | ------ | ------ |
-| Freezer (जर) सवधन                                                                                                    |        |        |        |        |        |
-| • लसम यषा खषाय पदषा्थ्ण खरषाब िोने से बचषाने के लिए, गमजी (35 °C से ऊपर) के दौरषान तषापमषान को -15 °C पर से निीं कर। |        |        |        |        |        |
-| • लिक् ि षािी कषा च क बोति कोफ़््रीज़ र म ोर न कर। कषाच क बोति म य जमने पर दरषार उत्पन िो जषाएगी ि और यि जषाएगी।     |        |        |        |        |        |
+| -23 °C                                                                                                                | -15 °C | -17 °C | -19 °C | -21 °C | -23 °C |
+| --------------------------------------------------------------------------------------------------------------------- | ------ | ------ | ------ | ------ | ------ |
+| Freezer (जर) सवधन                                                                                                     |        |        |        |        |        |
+| • लसम यषा खषाय पदषा्थ्ण खरषाब िोने से बचषाने के लिए, गमजी (35 °C से ऊपर) के दौरषान तषापमषान को -15 °C पर से निीं कर । |        |        |        |        |        |
+| • लिक् ि षािी कषा च क बोति कोफ़््रीज़ र म ोर न कर । कषाच क बोति म य जमने पर दरषार उत्पन िो जषाएगी ि और यि जषाएगी।     |        |        |        |        |        |
 
 # 02 जर कन््व
 
-आपफ़््री जर कषा उपयोग कफ़्ज मोि केरू प म कर सकते ि। कृपयषा नीचे हदए गए ननदश को पढ़ें।
+आपफ़््री जर कषा उपयोग कफ़्ज मोि केरू प म कर सकते ि। कृपयषा नीचे हदए गए ननदश को पढ़ें ।
 
-- • जब-जब आप Freezer Convert (जर कन्वटता) को 3 सेकि तक दबषाए रखगे तब-तब मोि बदि जषाएगषा।
-- • यहद आप कफ़्ज कषा चयन करते ि, तो कफ़्ज कषा इंडिके र ( ) चषाि िो जषाएगषा।
-- • यहद आपफ़््री जर कषा चयन करते ि, तो कफ़्ज कषा इंडिके र बंद िो जषाएगषा और Freezer Convert (जर कन्वटता) आपकेद््व षारषा क कए गए परर्वत्ण न 10 सेकि के बषाद से कर हदए जषाएँगे और सकक्य कर हदए जषाएँगे। मोि को र करने यषा कफर से बदिने के लिए, Freezer Convert (जर कन्वटता) को 3 सेकि तक दबषाए रख। कफर, ऊपर बतषाए गए ननदश कषा पषािन कर।
+• जब-जब आप Freezer Convert (जर कन्वटता) को 3 सेकि तक दबषाए रखगे तब-तब मोि बदि जषाएगषा।
 
-# नोट
+• यहद आप कफ़्ज कषा चयन करते ि , तो कफ़्ज कषा इंडिके र ( ) चषाि िो जषाएगषा।
+
+• यहद आपफ़््री जर कषा चयन करते ि , तो कफ़्ज कषा इंडिके र बंद िो जषाएगषा और Freezer Convert (जर कन्वटता) आपकेद््व षारषा क कए गए परर्वत्ण न 10 सेकि के बषाद से कर हदए जषाएँगे और सकक्य कर हदए जषाएँगे। मोि को र करने यषा कफर से बदिने के लिए, Freezer Convert (जर कन्वटता) को 3 सेकि तक दबषाए रख। कफर, ऊपर बतषाए गए ननदश कषा पषािन कर।
+
+नोट
 
 यहद आप Freezer Convert (जर कन्वटता) को 3 सेकंि तक दबषाकर रखते ि, तो रेकफ़्जरे र से िशन मोि पर च िो जषातषा ि जिषा आप Freezer Convert (जर कन्वटता) मोि को दबषा कर ककसी दूसरे मोि कषा चयन कर सकते ि।
 
 # चेवनी
 
-- • जर म ककसी य से भरे कषा बोति कफ्र म सकती ि
-- • जर कन््व बने सेफ़् ोजन खषाय पदषा्थ्ण
-- • जर कन््व तषापमषान कम िोने से
+- जर म ककसी य से भरे कषा बोति कफ्र म सकती ि
+- जर कन््व बने सेफ़् ोजन खषाय पदषा्थ्ण
+- जर कन््व तषापमषान कम िोने से
 
 च क बोति को निीं रख। फ़््री जर कन््व को र करते समय, कषा च क यषा फ सकती ि।
 
-को सम करने से पिि जर सेफ़् ोजन खषाय पदषा्थ  को  ि्टैषानषा सु ननक् चत कर। तषापमषान (फ़््रीजर मोि कषा कफ़्ज मोि म परर्वत्ण न) वपघि कर खरषाब िो जषाते ि।
+को सम करने से पिि जर सेफ़् ोजन खषाय पदषा्थ  को  ि्टैषानषा सु ननक् चत कर । तषापमषान (फ़््रीजर मोि कषा कफ़्ज मोि म परर्वत्ण न) वपघि कर खरषाब िो जषाते ि।
 
-को अम करने से पिि जर से जमे ि ए खषाय पदषा्थ  को     ि्टैषानषा सु  ननक् चत कर।
+को अम करने से पिि जर से जमे ि ए खषाय पदषा्थ  को     ि्टैषानषा सु  ननक् चत कर ।
 
 ि खषाय      पदषा्थ्ण    (कफ़्ज मोि कषा जर मोि   म       परर्वत्ण     न) जम सकते ि।
 
@@ -2413,21 +2282,19 @@ Freezer (जर) के बन को -15 °C और -23 °C के बीच �
 ---
 
 
-लन च र पर
+# लन
 
 # पररचलन
 
 • जब आपफ़््री जर को कफ़्ज मोि म कन््व करते ि, तो उसके अंदर कषा तषापमषान बढ़ जषातषा ि, जसके पररणषामस््वरूप तषापमषान म अंतर के कषारण अंदर क दीषार पर पषानी क बूं द जमषा िोने िगती ि।
 
-नोट
-
-यहद आपफ़््री जर कन््व कषा उपयोग करनषा चषािते ि, तो आपको वशेषरू प से सजय जैसे खषाय पदषा्थ को िषाक्स््टैक के कं नर म ोर करने क पु रजोर अनुशंसषा क जषाती ि।
+नोट: यहद आपफ़््री जर कन््व कषा उपयोग करनषा चषािते ि, तो आपको वशेषरू प से सजय जैसे खषाय पदषा्थ को िषाक्स््टैक के कं नर म ोर करने क पु रजोर अनुशंसषा क जषाती ि।
 
 # 03 कफ़्ज / पॉर कू ि
 
 कफ़्ज कषा तषापमषान समषायोजत करने के लिए, अनु कूि तषापमषान चुनने के लिए Fridge (ज) दबषाएँ। आप 1 °C और 7 °C के बीच तषापमषान से कर सकते ि (डिफ़ॉ: 3 °C)।
 
-तषापमषान के 1 °C पर से रिते, vacation (अकषाश) इंडिके र ऑन करने के लिए Fridge (ज) दबषाएँ। तषापमषान बषार ऑफ़ िो जषातषा ि। अकषाश मोि को न नक्ष्क्य Fridge (ज) करने के लिए दुबषारषा दबषाएँ। तषापमषान बषार 7 °Cप्र दलश्ण त करतषा ि।
+तषापमषान के 1 °C पर से रिते, vacation (अकषाश) इंडिके र ऑन करने के लिए Fridge (ज) दबषाएँ। तषापमषान बषार ऑफ़ िो जषातषा ि। अकषाश मोि को न नक्ष्क्य करने के लिए दुबषारषा दबषाएँ। तषापमषान बषार 7 °Cप्र दलश्ण त करतषा ि।
 
 # सवधन
 
@@ -2436,13 +2303,11 @@ Freezer (जर) के बन को -15 °C और -23 °C के बीच �
 
 पॉर कू ि पंखे क अचधकतम गनत पर िषा करने क कक्यषा को तेज़ कर देतषा ि। कफ़्ज कई घं तक पू री गनत से चितषा रितषा ि और कफर वछि तषापमषान पर िौ आतषा ि।
 
-• पॉर कू ि को सकक्य करने के लिए, Fridge (ज) को 3 सेकंि तक के लिए दबषाकर रख। अनुकूि इंडिकेर ( ) क िषाइ चषाि िो जषाती ि और रेकफ़्जरे र Power Cool (परॉवर कूल) आपके लिए कूि करने क गनत को बषा देतषा ि।
+• पॉर कू ि को सकक्य करने के लिए, Fridge (ज) को 3 सेकंि तक के लिए दबषाकर रख। अनुकूि इंडिकेर ( ) क िषाइ चषाि िो जषाती ि और रेकफ़्जरे Power Cool (परॉवर कूल) आपके लिए कूि करने क गनत को बषा देतषा ि।
 
 • पॉर कू ि को ननक्ष्क्य करने के लिए, Fridge (ज) को 3 सेकंि तक के लिए दबषाकर रख। कफ़्ज वछिी तषापमषान से ह्टै ग पर िौ जषातषा ि।
 
-नोट
-
-पॉर कू ि कषा उपयोग करने से बबजिी क खपत बढ़ जषाती ि। यहद आपकषा इसकषा उपयोग करने कषा इरषादषा निीं ि तो इसे ऑफ़ करनषा और वछि तषापमषान पर िौनषा सुननक् चत कर ।
+नोट: पॉर कू ि कषा उपयोग करने से बबजिी क खपत बढ़ जषाती ि। यहद आपकषा इसकषा उपयोग करने कषा इरषादषा निीं ि तो इसे ऑफ़ करनषा और वछि तषापमषान पर िौनषा सुननक् चत कर ।
 
 
 
@@ -2542,16 +2407,17 @@ Samsung खषातषा
 ---
 
 
-# लन च र पर
+# लन
 
 # पररचलन
 
-| आइटम         | वववर                                                              |
-| ------------ | ----------------------------------------------------------------- |
-| कफ़्ज कषा    | तषापमषान                                                          |
-| कफ़्ज के त्ण | मषान तषापमषान सेह्टै ग कोप्र दलश्ण त करतषा ि।                     |
-| ननगरनी       | उजषा्ण ननगरषानी                                                   |
-| वपछी         | 180 हदन के लिए रे कफ़्जरे र क संच चत बबजिी क खपत क जषा च करतषा ि। |
+| आइटम                           | वववर                                       |
+| ------------------------------ | ------------------------------------------ |
+| कफ़्ज कषा                      | तषापमषान                                   |
+| कफ़्ज के त्ण                   | मषान तषापमषान सेह्टै ग कोप्र दलश्ण त करतषा |
+| ननगरनी                         | उजषा्ण ननगरषानी                            |
+| वपछी 180 हदन के लिए रे कफ़्जरे | र क संच चत बबजिी                           |
+| क खपत क जषा च करतषा ि।         |                                            |
 
 पॉर कू ि आप पॉर कू ि चषाि यषा बंद कर सकते ि और त्ण मषान सेह्टै स क जषा च कर सकते ि।
 
@@ -2559,15 +2425,17 @@ Samsung खषातषा
 
 पॉर ज पंखे क अचधकतमस् पीि पर जमषाने क कक्यषा को तेज़ कर देतषा ि।
 
-जर 50 घं तक पू रिस् पीि से चितषा रितषा ि और कफर वपछी तषापमषान पर िौ जषातषा ि। बड़ी मषाषा म खषाने क चीज़ों कोफ् करने के लिए, जर म खषानषा रखने से पिि पॉर ज को कम से कम 20 घं पिि सकक्य फंक््श स कर।
+जर 50 घं तक पू रिस् पीि से चितषा रितषा ि और कफर वपछी तषापमषान पर िौ जषातषा ि। बड़ी मषाषा म खषाने क चीज़ों कोफ् करने के लिए, जर म खषानषा रखने से पिि पॉर ज को कम से कम 20 घं पिि सकक्य।
 
-पॉरफ़््री ज • जब आप पॉर ज को चषाि करते ि, तो रेकफ्जरे र (केि उपयुक् त मॉिि) आपके लिएफ् ज गप्र कक्यषा  को तेज कर देगषा।
+# फंक््श स
 
-• जब पॉर ज क कक्यषा पू री िो जषाती ि तोफ् र वपछी तषापमषान सेह्टै ग पर षापस िौ आतषा ि।
+- पॉरफ़््री ज • जब आप पॉर ज को चषाि करते ि, तो रेकफ्जरे र (केि उपयुक् त मॉिि) आपके लिएफ् ज गप्र कक्यषा  को तेज कर देगषा।
+- जब पॉर ज क कक्यषा पू री िो जषाती ि तोफ् र वपछी तषापमषान सेह्टै ग पर षापस िौ आतषा ि।
+- जब आप पॉर ज.को बंद करते ि। फ़््री जर वपछी तषापमषान सेह्टै ग पर िौ आतषा ि।
 
-• जब आप पॉर ज.को बंद करते ि। फ़््री जर वपछी तषापमषान सेह्टै ग पर िौ आतषा ि।
+नोट
 
-नोट: पॉरफ् ज कषा उपयोग करने से ब बजिी क खपत बती ि। यहद आपकषा इसे उपयोग करने कषा इरषादषा निीं ि तो इसे ऑफ़ करनषा और वपछी तषापमषान पर िौनषा सुननक् चत कर।
+पॉरफ् ज कषा उपयोग करने से ब बजिी क खपत बती ि। यहद आपकषा इसे उपयोग करने कषा इरषादषा निीं ि तो इसे ऑफ़ करनषा और वपछी तषापमषान पर िौनषा सुननक् चत कर ।
 
 अगर कफ़्ज यषा र कषा दरषाषा 2 लमन सेज़् यषादषा अलमता दरषाषा खोिनषा समय तक खुिषा रितषा ि तो यि अिषाम्ण हरिगर िो जषातषा ि।
 
@@ -2580,9 +2448,7 @@ Samsung खषातषा
 
 आप SmartThings ऐप के एनजजी मेनू म जषाकर AI Energy Mode को चषाि यषा बंद कर सकते ि।
 
-# AI Energy Mode
-
-आप SmartThings ऐप पर AI Energy Mode क नत देख सकते ि। कुछ मॉिस पर, आइकन यि दशषा्णने के लिए मुख्य पैनि पर हदखषाई देतषा ि जससे यि पतषा चितषा ि कक AI Energy Mode कषा संचषािन िो रिषा ि। (केि मरॉडल) उपयुक्त मॉिि)
+AI Energy Mode आप SmartThings ऐप पर AI Energy Mode क नत देख सकते ि। कुछ मॉिस पर, आइकन यि दशषा्णने के लिए मुख्य पैनि पर हदखषाई देतषा ि जससे यि पतषा चितषा ि कक AI Energy Mode कषा संचषािन िो रिषा ि। (केि उपयुक्त मॉिि)
 
 AI Energy Mode को चषाि करने से बबजिी क खपत कम िोती ि, िककन इससे कुलिंग परफॉरमस भी कम िो सकती ि।
 
@@ -2590,7 +2456,11 @@ AI Energy Mode को चषाि करने से बबजिी क ख�
 
 Untitled-30
 
-2024-07-24
+Untitled-30 43
+
+43 2024-07-24
+
+2024-07-24 5:22:31
 
 5:22:31
 
@@ -2598,6 +2468,12 @@ Untitled-30
 
 ---
 
+
+# लन
+
+# च
+
+# र पर
 
 # पररचलन
 
@@ -2684,12 +2560,12 @@ Untitled-30
 # चेवनी
 
 - सफ़षाई के लिए बेन्ीन, च्थनर, यषा िोम/कषार डिज जैसे क क Clorox™ कषा उपयोग निीं कर।  रेकफ़्जरे  र क सति को नत पि चषा  सकते ि और आग िगषा सकते ि।
-- रेकफ़्जरे र पर पषानी कषा नछकषा्व न कर । इसके कषारण बबजिी कषा झकषा िग सकतषा ि।
-- पषा्वरप्  िग लम्ण नि और संपक्ण बबदुओं से धूि यषा पषानी जैसे सभी बषािरी पदषा्थ को ि्टैषाने के लिए न नयलमत प से सू खे कपड़  कषा उपयोग कर।
+- रेकफ़्जरे र पर पषानी कषा नछकषा्व न कर। इसके कषारण बबजिी कषा झकषा िग सकतषा ि।
+- पषा्वरप्  िग लम्ण नि और संपक्ण बबदुओं से धूि यषा पषानी जैसे सभी बषािरी पदषा्थ को ि्टैषाने के लिए न नयलमत प से सू खे कपड़ कषा उपयोग कर।
 
 1. रेकफ़्जरे र क ब बजिी क तषार कोप् िग से न नकषाि द।
 2. रेकफ़्जरे र के अंदरूनी और बषािरी हिस्से  को सषा करने के लिए नम मु िषायम रोआँ-मुक्त कपड़ यषा पेपर ॉि कषा उपयोग कर।
-3. सफ़षाई पू रषा  िो जषाने पर, अच्छी तरि से सू खषाने के लिए सूखे कपड़  यषा पेपर ॉि कषा उपयोग कर।
+3. सफ़षाई पू रषा  िो जषाने पर, अच्छी तरि से सू खषाने के लिए सूखे कपड़ यषा पेपर ॉि कषा उपयोग कर।
 4. रेकफ़्जरे र चषाि  करने के लिए रेकफ़्जरे  र के ब बजिी केप् िग को सॉके म िगषाएँ।
 
 # नोट
@@ -2703,23 +2579,25 @@ Untitled-30
 
 # वि्त
 
+# र ि
+
 # रिरि्तव
 
 # नर्पन
 
-डीयोडोरइज़र टर (केवल उपयुक् मरॉडल)
+डीयोडोरइज़र टर (केवल उपयुक्  मरॉडल)
 
-कफ़र केस कषा ऊपरी और न नचिषा हिस्सषा पकड़ िए, कफ़र केस को अनिॉक कर तषाकक डीयोडोरइज़र टर (A) क िो सके। कफ़र बदि और कफर केस को पुनः िगषा द।
+कफ़र केस कषा ऊपरी और न  नचिषा हिस्सषा पकड़  िए, कफ़र केस को अनिॉक कर तषाकक डीयोडोरइज़र टर (A) क िो सके।  कफ़र बदि      और कफर केस को पुनः  िगषा द।
 
 A
 
-लस और एटव टर
+लस और एटव      टर
 
-िस यषा एक् श कफ़र उपयोगकतषा्ण षारषा मरम्मत योग्य निीं िोते ि। उन्ि यं बदिने कषा यषास निीं कर। उन्ि बदिने के लिए, स््थ षानीय Samsung सव स सर से संपक्ण कर।
+िस यषा एक्     श कफ़र उपयोगकतषा्ण षारषा  मरम्मत योग्य निीं िोते ि    । उन्ि  यं बदिने कषा यषास निीं कर। उन्ि  बदिने के लिए, स््थ षानीय Samsung सव     स सर से संपक्ण  कर।
 
 चेवनी
 
-िप उपयोगकतषा्ण षारषा मरम्मत योग्य निीं िोते ि। स््व यं ि प को बदिने कषा यषास न कर। इससे बबजिी कषा झकषा िग सकतषा ि।
+िप उपयोगकतषा्ण षारषा  मरम्मत योग्य निीं िोते ि  । स््व यं  ि प को बदिने कषा यषास न कर । इससे बबजिी कषा झकषा िग सकतषा ि       ।
 
 
 
@@ -2729,20 +2607,21 @@ A
 
 सव स के लिए कॉि करने के पिि, नीचे दी गईं मुख् य बषात क समीक्षा कर ि। सषामषाय पर रक्स््थनतय (कोई खरषाबी षाि मषामि निीं) के संबंध म ककए गए सव स कॉि के लिए उपयोगकतषा्णओं से शुल्क लियषा जषाएगषा।
 
-| समय           | पमन                             | ल                            | संभव वर् कर                        | उपय                          |
-| ------------- | ------------------------------- | ---------------------------- | ---------------------------------- | ---------------------------- |
-| •             | बबजिी कषा तषार ीक से निीं िगषा  | •                            | बबजिी के तषार ीक से िगषाएँ।        |                              |
-| •             | तषापमषान ननयंण सिी ढंग से से    | •                            | तषापमषान कम पर से कर               |                              |
-| •             | रेकफ़्जरे र एक गमजी दषान करने   | •                            | रेकफ़्जरे र को सीधे सू य्ण क रोशनी | यषा गमजी दषान करने षाि       |
-| •             | ज/जर संचलर् के पषास त ि         | •                            | दूर रख।                            |                              |
-| •             | अकषाश मोि सकक्य ि               | •                            | अकषाश मोि को न नक्ष्क्य कर         |                              |
-| •             | रेकफ़्जरे र ओरिोि ि             | खषाने क                      | •                                  | रेकफ़्जरे र को ओरिोि निीं कर |
-| •             | चीज़ें रेकफ़्जरे र के छे द को अ | •                            | ह्टैि शन को खषाने क चीज़ों से      | अ निीं िोने द                |
-| ज/जर अगधक ठंड | •                               | तषापमषान ननयंण सिी ढंग से से | •                                  | तषापमषान को उच्च पर से कर    |
+| समय           | पमन                             | ल                            | संभव वर् कर                         | उपय                           |
+| ------------- | ------------------------------- | ---------------------------- | ----------------------------------- | ----------------------------- |
+| •             | बबजिी कषा तषार ीक से निीं िगषा  | •                            | बबजिी के तषार ीक से िगषाएँ।         |                               |
+| •             | तषापमषान ननयंण सिी ढंग से से    | •                            | तषापमषान कम पर से कर                |                               |
+| •             | रेकफ़्जरे र एक गमजी दषान करने   | •                            | रेकफ़्जरे र को सीधे सू य्ण क रोशनी  | यषा गमजी दषान करने षाि        |
+| •             | ज/जर संचलर् के पषास त ि         | •                            | दूर रख।                             |                               |
+| •             | ज/जर क पमन                      | •                            | रिकम अनुशंसषा करते ि कक रेकफ़्जरे र |                               |
+| •             | रेकफ़्जरे र और बगि/पीछे पयषा्णत | •                            | और आस-पषास क दीषार (यषा             | अिमषाररयषा) के बीच क दू री 50 |
+|               | लममी से अचधक ि।                 |                              |                                     |                               |
+| •             | अकषाश मोि सकक्य ि।              | •                            | अकषाश मोि को न नक्ष्क्य कर।         |                               |
+| •             | रेकफ़्जरे र ओरिोि ि। खषाने क    | •                            | रेकफ़्जरे र को ओरिोि निीं कर        |                               |
+| •             | चीज़ें रेकफ़्जरे र के छे द को अ | •                            | ह्टैि शन को खषाने क चीज़ों से       | अ निीं िोने द।                |
+| ज/जर अगधक ठंड | •                               | तषापमषान ननयंण सिी ढंग से से | •                                   | तषापमषान को उच्च पर से कर।    |
 
 हिंदी 49
-
-व्तरर् न स्य्त-नसम
 
 ---
 
@@ -2767,7 +2646,7 @@ A
 - रेकफ़्जरे र को सषाफ कर और ककसी भी खरषाब भोजन को ि्टैषा द।
 - रेफ़््रिजरेटर से गंध आ रही है।
 - तेज गंध षाि खषाय पदषा्थ्ण।
-- सुननक् चत कर कक तेज सुगंचधत भोजन को एयरषाइ से िपे  षा गयषा ि।
+- सुननक् चत कर कक तेज सुगंचधत भोजन को एयरषाइ से िपे षा गयषा ि।
 
 # कंडेनसेन
 
@@ -2775,8 +2654,11 @@ A
 
 - यहद दरषाजषा खु िषा रितषा ि, तो नमी रेकफ़्जरे र म श करती ि।
 - नमी को ि्टैषाएँ और दरषा को अचधक देर तक खुिषा निीं छोड़ें।
-- आंर रक दीवर पर कंडेनसेन बन रह है।
-- जब इसे कफ़्ज मोि कन््व ककयषा गयषा षा तोफ़््री जर कषा तषापमषान बढ़ गयषा षा। (के ि उपयुक् त मॉिि)।
+
+# आंर रक दीवर पर
+
+- कंडेनसेन बन रह है।
+- जब इसे कफ़्ज मोि म कन््व ककयषा गयषा षा तोफ़््री जर कषा तषापमषान बढ़ गयषा षा। (के ि उपयुक् त मॉिि)।
 - सुननक् चत कर कक भोजन एयरषाइ से िपेषा गयषा ि।
 - एक सूखे कपड़ से ककसी भी तरि क नमी को पछ।
 
@@ -2786,26 +2668,28 @@ A
 
 अलमता
 
-यहद दरषाज़षा 2 लमन से अचधक • अिषाम्ण को बंद करने के लिए कोई अलमता बज है। देर तक खुिषा रि जषातषा ि, तो भी बन दबषाएँ। यहद 12 घं के दरषाषा बंद िोने तक अिषाम्ण बजतषा बषाद भी अिषाम्ण कफर से बजतषा ि रिगषा। तोस््थ षानीय Samsung सव स सर से संपक्ण कर।
+यहद दरषाज़षा 2 लमन से अचधक • अिषाम्ण को बंद करने के लिए कोई अलमता बज है। देर तक खुिषा रि जषातषा ि, तो भी बन दबषाएँ। यहद 12 घं के दरषाषा बंद िोने तक अिषाम्ण बजतषा बषाद भी अिषाम्ण कफर से बजतषा ि रिगषा।
+
+तोस््थ  षानीय Samsung सव  स सर से संपक्ण    कर।
 
 # ब जमन
 
-छेद के चर और बफ • खषाने क चीज़ें छेद कोब् िॉक कर • जषाच कर ि कक रेकफ़्जरे र छेद जम गई।
+छेद के चर और बफ • खषाने क चीज़ें छेद कोब् िॉक कर • जषाच कर ि कक रेकफ़्जरे  र छेद जम गई।
 
 रिी ि। कोई खषाने क चीज सेब् िॉक तो निीं ि।
 
-आंर रक दीवर पर बफ • िोर ीक से बंद निीं ि। • जषाच कर ि किीं खषाने क चीज़ों से िोरब् िॉक तो निीं िो रिषा ि। िोर गैसके सषाफ कर।
+आंर रक दीवर पर बफ • िोर     ीक से बंद निीं ि। • जषाच कर ि किीं खषाने क चीज़ों से     िोरब् िॉक तो निीं िो रिषा ि।
 
-हिंदी 51
+िोर गैसके    सषाफ कर ।
+
+हिंदी  51
 
 ---
 
+व्तरर्
+न     स्य्त-नसम
 
-# व्तरर्
-
-# स्य्त-नसम
-
-# समय्त-न नव्तरर्
+समय्त-न  नव्तरर्
 
 य्त  आपको रेफ़््रिजरेटर से असमय आव              सुनई दे ी ह ?
 
@@ -2813,17 +2697,20 @@ A
 
 ये आव  समय होी ह  ।
 
-- संचषािन आरंभ यषा समषात करने पर, रे कफ़्जरे  र कषार कषा इंजन चषाि  िोने जैसी आषाज    ननकषाि सकतषा    ि। संचषािन के र िो जषाने पर, आषाज़ कम िो जषाएगी।
+- •    संचषािन आरंभ यषा समषात करने पर, रे कफ़्जरे  र कषार कषा इंजन चषाि  िोने जैसी आषाज    ननकषाि सकतषा    ि।
+- संचषािन के र िो जषाने पर, आषाज़ कम िो जषाएगी।
 - क्लिक-क्लिक या चूं-चूं!    चररररररर!
-- पंखषा चिने के दौरषान, ये आषाज़  आ सकती ि। जब रेकफ़्जरे र न नधषा्णररत तषापमषान पर पिच जषातषा ि, तो पंखे क आषाज़ निीं आएगी।
+- • पंखषा चिने के दौरषान, ये आषाज़  आ सकती ि। जब रेकफ़्जरे र न नधषा्णररत तषापमषान पर पिच जषातषा ि, तो पंखे क आषाज़ निीं आएगी।
 - हमममम!             सररर!
-- डिफ़्ॉ  च के दौरषान, डिफ़्ॉहिमीकरण िीर पर पषानी पक सकतषा ि    ,  जसके कषारण चषाके क आषाज़ आ सकती ि।
+- • डिफ़्ॉ  च के दौरषान, डिफ़्ॉहिमीकरण िीर पर पषानी पक सकतषा ि    ,  जसके कषारण चषाके क आषाज़  आ सकती ि।
 
+52 हिंदी
 
+52     2024-07-24     2024-07-24     5:22:34
 
 ---
 
-
+Untitled-30
 # हिस!
 
 - जैसे-जैसे रेकफ़्जरे र िषा करतषा ि यषा जमषातषा ि, रेकफ़्जर गैस सीि ि ए पषाइप से गु जरती ि, जससे बुिबुि जैसी आषाज़ आती ि।
@@ -2837,47 +2724,53 @@ A
 - आइस मेकर षाि मॉिि के लिए: जब आइस मेकर को भरने के लिए पषानी कषा ॉल््व खु ितषा ि, तो लभनलभनषाने क आषाज़ आ सकती ि।
 - रेकफ़्जरे र कषा दरषाजषा खु िने और बंद िोने पर दबषा्व के बरषाबर िोने के कषारण, सरसरषाि्टै क आषाज़ आ सकती ि।
 
-
+हिंदी  53
 
 ---
 
 
 # SmartThings (सफ़  लगू मरॉडल)
 
-SmartThings ऐप कषा सपोह्टैगं ग सॉ यर संस्करण, न नमषा्णतषा षारषा ऐप मकदे ट म उपिध OS सपोह्टैगं ग नीनत के अनुसषार बदि सकतषा ि। इसके अिषा्वषा, "SmartThings" नहीं मल।
+SmartThings ऐप कषा  सपोह्टैगं  ग सॉ यर संस्करण, न नमषा्णतषा षारषा ऐप मकदे ट म उपिध OS सपोह्टैगं  ग नीनत के अनुसषार बदि सकतषा  ि। इसके अिषा्वषा, "SmartThings" नहीं मल।
 
-SmartThings ऐप यषा ऐप जन शन को सपो करते ि, उनके लिए मौजूदषा OS संस्करण पर नई एिकेशन अपि नीनत उपयोचगतषा यषा सुरक्षा कषारण से न निबबत क जषा सकती ि।
+SmartThings ऐप संचलर्    होने म      ववफल रह है।
 
-# SmartThings ऐप
+- पुरषानषा   Samsung Smart रेकफ़्जरे  र ऐप Samsung Smart Home मॉिि से कनेक् निीं   िो सकतषा  ि  ।
+- ऐप कषा        उपयोग करने के लिए आपको अपने Samsung खषाते           म िॉग इन करनषा      िोगषा।
 
-- संचलर् होने म ववफल रह है।
-- पुरषानषा Samsung Smart रेकफ़्जरे र ऐप Samsung Smart Home मॉिि से कनेक् निीं िो सकतषा ि।
-- ऐप कषा उपयोग करने के लिए आपको अपने Samsung खषाते म िॉग इन करनषा िोगषा।
+SmartThings ऐपस् वपर् है लेकन मेरे रेफ़््रिजरेटर से कनेक्ट    नहीं है।
 
-सुननक् चत कर कक आपकषा रषाउर सषामषाय प से चि रिषा ि। अगर रेकफ़्जरे र के डिस्िे पर Wi-Fi आइकन बंद ि, तो यि दशषा्णतषा ि कक अभी कोई नेक्ण कनेक्शनस््थ षावपत निीं क कयषा गयषा ि। ऐसी नत, अपने घर के एक्से स पॉइं (AP) से अपने रे कफ़्जरे र को कनेक् तषा रजर करने के लिए SmartThings ऐप कषा उपयोग कर।
+- सुननक्     चत कर कक  आपकषा रषाउर सषामषाय  प से चि रिषा  ि  ।
+- अगर रेकफ़्जरे    र के डिस्िे    पर Wi-Fi आइकन बंद ि, तो यि        दशषा्णतषा ि कक अभी कोई नेक्ण     कनेक्शनस््थ  षावपत निीं क  कयषा गयषा  ि। ऐसी      नत म, अपने घर के एक्से  स पॉइं       (AP) से अपने रे कफ़्जरे  र को कनेक् तषा रजर करने के लिए SmartThings ऐप कषा            उपयोग कर        ।
 
-ऐप म लरॉग इन नहीं कर सके। यहद आपके पषास Samsung खषातषा निीं ि, तो एक खषातषाबनषाने के लिए ऐप पर आने षाि ऑनस्क्न न नदश कषा पषािन कर।
+ऐप म लरॉग इन नहीं कर सके।
 
-# जब म अपने रेफ़््रिजरेटर को पंजीकृ    करने क यस कर हूं
+- यहद आपके पषास Samsung खषातषा         निीं ि, तो एक खषातषाबनषाने के लिए ऐप पर आने षाि        ऑनस्क्न न    नदश कषा पषािन कर ।
 
-आसषान कनेक्शन आपके एक्से स पॉइं (एपी) से दू र िोने यषा आसपषास के परर्व श से वयु त ित प के कषारण वफि िो सकतषा ि। ोड़ी देर कर।
+जब म अपने रेफ़््रिजरेटर को पंजीकृ    करने क यस                      कर हूं     ो एकत्     टट संदे            तीक्षा कर      और पुनःप्र यषास कर  कट हो है।
 
-SmartThings ऐप से बषािर ननकि और कफर से शुरू कर यषा रषाउर को सफलपू वताक मेरे रेफ़््रिजरेटर डिस्कनेक् कर और कफर से कनेक् कर। रेकफ़्जरे र को बंद कर और कफर इसे 1 लमन के बषाद कफर से चषाि कर।
+- आसषान कनेक्शन आपके एक्से          स पॉइं (एपी) से दू र     िोने यषा आसपषास के परर्व   श से वयु  त ित       प के कषारण वफि िो सकतषा    ि        । ोड़ी  देर कर।
+
+SmartThings ऐप से बषािर ननकि और कफर से शुरू कर             यषा        रषाउर को सफलपू      वताक मेरे रेफ़््रिजरेटर       डिस्कनेक्  कर    और कफर से कनेक् कर       ।
+
+- रेकफ़्जरे  र को बंद कर        और कफर इसे 1 लमन के बषाद कफर से चषाि             कर।
 
 
 
 ---
 
-ल कयता
-• उपयोग करने से पिि अपने रेकफ़्जरे र को SmartThings ऐप से कनेक् कर। जब कनेक्शन सफितषापू क बनषा हदयषा जषातषा ि, तो Wi-Fi आइकन लंक कर इंडिकेर िंक करनषा बंद कर देतषा ि।
+
+# ल कयता
+
+• उपयोग करने से पिि अपने रेकफ़्जरे को SmartThings ऐप से कनेक् कर। जब कनेक्शन सफितषापू क बनषा हदयषा जषातषा ि, तो Wi-Fi आइकन लंक कर इंडिकेर िंक करनषा बंद कर देतषा ि।
 
 यहद आप कनेक्शन निीं बनषा पषाते ि यषा ऐप कषा उपयोग निीं करनषा चषािते ि, तो Fridge (ज) के बन को 10 सेकं ि तक दबषाए रख। इंडिकेर िंक करनषा बंद कर देतषा ि।
 
-हिंदी 55
+# हिंदी  55
 
-Untitled-30
+# Untitled-30
 
-Untitled-30 55
+# Untitled-30  55
 
 55 2024-07-24
 
@@ -2885,7 +2778,7 @@ Untitled-30 55
 
 5:22:35
 
-व्तरर् न स्य्त-नसम
+
 
 ---
 
@@ -2899,11 +2792,6 @@ The software included in this product contains open source software.
 The following URL http://opensource.samsung.com/opensource/SMART_TP1_0/seq/0 leads to open source license information as related to this product.
 
 56 हिंदी
-Untitled-30
-Untitled-30  56
-56     2024-07-24
-2024-07-24     5:22:35
-5:22:35
 
 
 ---
@@ -2950,6 +2838,7 @@ Untitled-30  59
 
 ---
 
+
 SAMSUNG WORLD WIDE से संपक्ण कर
 
 अगर Samsung उत्पषाद से संबंचधत आपके कोईप्र न यषा ह्टैपखणयषा, तो कृपयषा SAMSUNG षािक से षा क से संपक्ण कर।
@@ -2961,7 +2850,7 @@ SAMSUNG WORLD WIDE से संपक्ण कर
 | BANGLADESH | 08000-300-300 (Toll free) 09612-300-300                                                   | www.samsung.com/bd/support |
 | SRI LANKA  | 011 SAMSUNG (011 7267864)                                                                 | www.samsung.com/in/support |
 
-यि ोि RoHS के अनुरू  प ि
+यि ोि RoHS के अनुरू प ि
 
 DA68-04823J-00
 

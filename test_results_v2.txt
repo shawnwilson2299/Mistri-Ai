@@ -1,0 +1,749 @@
+====================================================================================================
+MISTRI AI - COMPREHENSIVE TEST SUITE
+====================================================================================================
+Test Started: 2026-02-17 19:19:11
+====================================================================================================
+
+
+====================================================================================================
+CATEGORY: Component-Specific Queries
+====================================================================================================
+
+[TEST 1/23]
+Brand: Samsung
+Query: How do I clean the water filter?
+----------------------------------------------------------------------------------------------------
+Response: The manual does not provide information about this topic. This may require contacting customer service or a certified technician.
+
+Response Length: 129 chars
+Weak Response (Should Trigger Tier 3): YES ⚠️
+
+Top 3 Sources Retrieved:
+  [1] Relevance: 0.323 | Chunk: 44
+      Preview: # Replacement
+
+# Deodorizer filter (applicable models only)
+
+While holding the top and bottom sides of the filter case, unlock the filter case to reve...
+  [2] Relevance: 0.291 | Chunk: 43
+      Preview: # Maintenance
+
+# Cleaning
+
+WARNING
+- Do not use benzene, thinner, or home/car detergent such as Clorox™ for cleaning purposes. They may damage the sur...
+  [3] Relevance: 0.290 | Chunk: 19
+      Preview: Safety information
+
+# Safety information
+
+- Use a clean, dry cloth to remove any foreign matter or dust from the power plug blades. Do not use a wet o...
+----------------------------------------------------------------------------------------------------
+
+[TEST 2/23]
+Brand: Samsung
+Query: How do I replace the ice maker?
+----------------------------------------------------------------------------------------------------
+Response: The manual does not provide information about this topic. This may require contacting customer service or a certified technician.
+
+Response Length: 129 chars
+Weak Response (Should Trigger Tier 3): YES ⚠️
+
+Top 3 Sources Retrieved:
+  [1] Relevance: 0.381 | Chunk: 40
+      Preview: Special features
+
+The actual image and special functions of your refrigerator may differ, depending on the model and the country.
+
+# Ice making (appli...
+  [2] Relevance: 0.312 | Chunk: 48
+      Preview: # Troubleshooting
+
+- As the refrigerator cools or freezes, refrigerant gas moves through sealed pipes, causing bubbling sounds.
+- Bubbling!
+- As the r...
+  [3] Relevance: 0.301 | Chunk: 26
+      Preview: # 01 Freezer door bin
+
+# 02 Main panel
+
+# 03 Fridge door bin
+
+# 04 Active Fresh Filter *
+
+# 05 Vegetable drawer
+
+* applicable models only
+
+To secure m...
+----------------------------------------------------------------------------------------------------
+
+[TEST 3/23]
+Brand: Whirlpool
+Query: How do I install a new water filter?
+----------------------------------------------------------------------------------------------------
+Response: 1. Install the water filter cap onto the new filter, aligning the arrows.
+2. Locate the water filter compartment in the refrigerator and remove the old filter.
+3. Insert the new filter into the housing, aligning the arrows and turning it 90° clockwise to lock it in place.
+4. Close the water filter door and flush the water system.
+5. For specific instructions based on the style of your refrigerator, refer to the Owner's Manual.
+
+Response Length: 430 chars
+Weak Response (Should Trigger Tier 3): NO ✅
+
+Top 3 Sources Retrieved:
+  [1] Relevance: 0.496 | Chunk: 16
+      Preview: # 5.
+
+Install the water filter cap onto the new filter. Be sure to align the arrows so the grooves in the filter align with ribs in the filter cap.
+
+#...
+  [2] Relevance: 0.452 | Chunk: 17
+      Preview: # DOOR AND HANDLE INSTRUCTIONS
+
+Locate the water filter in the top-right corner of the refrigerator compartment. Lift open the filter cover door. The ...
+  [3] Relevance: 0.418 | Chunk: 48
+      Preview: # INSTRUCTIONS POUR LA PORTE ET LA POIGNÉE
+
+1. Fermer complètement le couvercle du filtre pour emboîter le filtre et le mettre en place. Il faudra peu...
+----------------------------------------------------------------------------------------------------
+
+[TEST 4/23]
+Brand: Whirlpool
+Query: How often should I replace the air filter?
+----------------------------------------------------------------------------------------------------
+Response: The manual does not provide information about this topic. This may require contacting customer service or a certified technician.
+
+Response Length: 129 chars
+Weak Response (Should Trigger Tier 3): YES ⚠️
+
+Top 3 Sources Retrieved:
+  [1] Relevance: 0.388 | Chunk: 11
+      Preview: Style 2–Behind LED Vent Cover
+# Replacing the Air Filter
+
+Install the air filter behind the blue LED-lighted vent cover, located on the rear wall near...
+  [2] Relevance: 0.336 | Chunk: 41
+      Preview: # Installation des témoins lumineux (sur certains modèles)
+
+L’icône de filtre sur le panneau de commande affiche l’état du filtre à air.
+
+- Bleu : Goo...
+  [3] Relevance: 0.285 | Chunk: 40
+      Preview: # Terminer l’installation
+
+# Installation du filtre à air
+
+# AVERTISSEMENT
+
+Selon le modèle, le filtre à air peut être installé de l’une des façons su...
+----------------------------------------------------------------------------------------------------
+
+[TEST 5/23]
+Brand: LG
+Query: How to change the deodorizer filter?
+----------------------------------------------------------------------------------------------------
+Response: The manual does not provide information about this topic. This may require contacting customer service or a certified technician.
+
+Response Length: 129 chars
+Weak Response (Should Trigger Tier 3): YES ⚠️
+
+Top 3 Sources Retrieved:
+  [1] Relevance: 0.366 | Chunk: 40
+      Preview: # MAINTENANCE
+
+# Replacing the Fresh Air Filter
+
+It is recommended that you replace the air filter:
+
+- Approximately every six months.
+- When the CHAN...
+  [2] Relevance: 0.335 | Chunk: 41
+      Preview: # 42  MAINTENANCE
+
+# Replacing the Water Filter
+
+NOTE
+
+Replace with a new water filter. This refrigerator does not require a filter bypass plug when t...
+  [3] Relevance: 0.306 | Chunk: 24
+      Preview: # HOW TO USE
+
+# Control Panel Features (continued)
+
+# Change Filter
+
+When the Change Filter icon turns on, the air filter needs to be replaced. After ...
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+CATEGORY: Terminology Variations
+====================================================================================================
+
+[TEST 6/23]
+Brand: Samsung
+Query: How do I fix a broken water dispenser?
+----------------------------------------------------------------------------------------------------
+Response: The manual does not provide information about this topic. This may require contacting customer service or a certified technician.
+
+Response Length: 129 chars
+Weak Response (Should Trigger Tier 3): YES ⚠️
+
+Top 3 Sources Retrieved:
+  [1] Relevance: 0.291 | Chunk: 9
+      Preview: Safety information
+
+# Safety information
+
+- Do not stand on top of the appliance or place objects (such as laundry, lighted candles, lighted cigarette...
+  [2] Relevance: 0.288 | Chunk: 14
+      Preview: # Safety information
+
+- Do not put fridge shelf in upside down. Shelf stopper could not work.
+- It may cause a personal injury because of glass shelf ...
+  [3] Relevance: 0.281 | Chunk: 17
+      Preview: Safety information
+
+# Safety information
+
+- Service Warranty and Modification.
+- Any changes or modifications performed by a 3rd party on this finishe...
+----------------------------------------------------------------------------------------------------
+
+[TEST 7/23]
+Brand: Whirlpool
+Query: My ice maker is not working, how to repair it?
+----------------------------------------------------------------------------------------------------
+Response: The manual does not provide information about this topic. This may require contacting customer service or a certified technician.
+
+Response Length: 129 chars
+Weak Response (Should Trigger Tier 3): YES ⚠️
+
+Top 3 Sources Retrieved:
+  [1] Relevance: 0.417 | Chunk: 14
+      Preview: # Ice Production Rate
+
+Allow 24 hours to produce the first batch of ice. Discard the first three batches of ice produced. Allow 3 days to completely f...
+  [2] Relevance: 0.394 | Chunk: 15
+      Preview: # Water Filtration System
+
+IMPORTANT: To remove the ice storage bin, it may be necessary to turn the auger driver, behind the ice bin, counterclockwis...
+  [3] Relevance: 0.392 | Chunk: 13
+      Preview: # The Water Dispenser
+
+# IMPORTANT:
+
+Dispense at least 1 qt. (1 L) of water every week to maintain a fresh supply.
+
+If the flow of water from the disp...
+----------------------------------------------------------------------------------------------------
+
+[TEST 8/23]
+Brand: LG
+Query: How do I clean the condenser coils?
+----------------------------------------------------------------------------------------------------
+Response: The manual does not provide information about this topic. This may require contacting customer service or a certified technician.
+
+Response Length: 129 chars
+Weak Response (Should Trigger Tier 3): YES ⚠️
+
+Top 3 Sources Retrieved:
+  [1] Relevance: 0.325 | Chunk: 39
+      Preview: # MAINTENANCE
+
+# Cleaning
+
+- Both the refrigerator and freezer sections defrost automatically; however, clean both sections about once a month to prev...
+  [2] Relevance: 0.292 | Chunk: 46
+      Preview: # TROUBLESHOOTING
+
+Review the Troubleshooting section before calling for service; doing so will save you both time and money.
+
+| Problem              ...
+  [3] Relevance: 0.291 | Chunk: 48
+      Preview: # TROUBLESHOOTING
+
+# 49
+
+| Problem                                                         | Possible Causes                                          ...
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+CATEGORY: Temperature & Settings
+====================================================================================================
+
+[TEST 9/23]
+Brand: Samsung
+Query: What is the ideal temperature setting?
+----------------------------------------------------------------------------------------------------
+Response: The manual does not provide information about this topic. This may require contacting customer service or a certified technician.
+
+Response Length: 129 chars
+Weak Response (Should Trigger Tier 3): YES ⚠️
+
+Top 3 Sources Retrieved:
+  [1] Relevance: 0.318 | Chunk: 35
+      Preview: Operations
+
+# Fridge / Power Cool
+
+To adjust the fridge temperature, press Fridge to select the corresponding temperature. You can change the temperat...
+  [2] Relevance: 0.318 | Chunk: 28
+      Preview: # Step-by-step installation
+
+# STEP 1    Select a site
+
+# Site requirements:
+
+- Solid, level surface without carpeting or flooring that may obstruct v...
+  [3] Relevance: 0.298 | Chunk: 34
+      Preview: # 01 Freezer
+
+The Freezer button can be used to set the freezer temperature between -15 °C and -23 °C (default: -19 °C). Each time you press the butto...
+----------------------------------------------------------------------------------------------------
+
+[TEST 10/23]
+Brand: Whirlpool
+Query: What temperature should I set for the freezer?
+----------------------------------------------------------------------------------------------------
+Response: The manual does not provide information about this topic. This may require contacting customer service or a certified technician.
+
+Response Length: 129 chars
+Weak Response (Should Trigger Tier 3): YES ⚠️
+
+Top 3 Sources Retrieved:
+  [1] Relevance: 0.366 | Chunk: 35
+      Preview: Ceci est normal. Les tablettes en verre et les couvercles sont lourds. Employer les deux mains lorsqu’on les retire afin d’éviter de les faire tomber....
+  [2] Relevance: 0.331 | Chunk: 34
+      Preview: 9. Selon le modèle, soulever l’avant du réfrigérateur pour qu’il roule plus facilement ou soulever les pieds de nivellement pour qu’ils n’égratignent ...
+  [3] Relevance: 0.324 | Chunk: 57
+      Preview: # 3. S’assurer que le réfrigérateur est stable.
+
+Si le réfrigérateur semble instable ou qu’il roule vers l’avant lorsqu’on ouvre la porte ou le tiroir...
+----------------------------------------------------------------------------------------------------
+
+[TEST 11/23]
+Brand: LG
+Query: How do I adjust the refrigerator temperature?
+----------------------------------------------------------------------------------------------------
+Response: The manual does not provide information about this topic. This may require contacting customer service or a certified technician.
+
+Response Length: 129 chars
+Weak Response (Should Trigger Tier 3): YES ⚠️
+
+Top 3 Sources Retrieved:
+  [1] Relevance: 0.425 | Chunk: 47
+      Preview: # 48 TROUBLESHOOTING
+
+| Problem                                      | Possible Causes                                                     | Solutions...
+  [2] Relevance: 0.413 | Chunk: 20
+      Preview: # INSTALLATION
+
+# Leveling
+
+After installing, plug the refrigerator’s power cord into a 3-prong grounded outlet and push the refrigerator into the fin...
+  [3] Relevance: 0.412 | Chunk: 46
+      Preview: # TROUBLESHOOTING
+
+Review the Troubleshooting section before calling for service; doing so will save you both time and money.
+
+| Problem              ...
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+CATEGORY: Maintenance Procedures
+====================================================================================================
+
+[TEST 12/23]
+Brand: Samsung
+Query: How do I defrost the freezer?
+----------------------------------------------------------------------------------------------------
+Response: The manual does not provide information about this topic. This may require contacting customer service or a certified technician.
+
+Response Length: 129 chars
+Weak Response (Should Trigger Tier 3): YES ⚠️
+
+Top 3 Sources Retrieved:
+  [1] Relevance: 0.389 | Chunk: 21
+      Preview: # Safety information
+
+# DANGER: Risk of child entrapment.
+
+Before you throw away your old refrigerator or freezer:
+
+- Take off the doors.
+- Leave the ...
+  [2] Relevance: 0.365 | Chunk: 22
+      Preview: - Temperature rise during defrosting complies with ISO requirements. If you want to prevent an undue rise in the temperature of frozen food while the ...
+  [3] Relevance: 0.356 | Chunk: 34
+      Preview: # 01 Freezer
+
+The Freezer button can be used to set the freezer temperature between -15 °C and -23 °C (default: -19 °C). Each time you press the butto...
+----------------------------------------------------------------------------------------------------
+
+[TEST 13/23]
+Brand: Whirlpool
+Query: How do I clean the door seal?
+----------------------------------------------------------------------------------------------------
+Response: The manual does not provide information about this topic. This may require contacting customer service or a certified technician.
+
+Response Length: 129 chars
+Weak Response (Should Trigger Tier 3): YES ⚠️
+
+Top 3 Sources Retrieved:
+  [1] Relevance: 0.311 | Chunk: 3
+      Preview: # Cleaning the Exterior:
+
+IMPORTANT: Damage to smooth finish due to improper use of cleaning products or using non-recommended cleaning products is no...
+  [2] Relevance: 0.309 | Chunk: 19
+      Preview: # Freezer Door Handle
+
+# Style 5
+
+# Style 2
+
+To remove the handle, grasp the lower part of the handle firmly, slide the handle up and pull the handle ...
+  [3] Relevance: 0.295 | Chunk: 20
+      Preview: # WARNING
+
+Before removing the left-hand side door, disconnect the wiring plug located on top of the top hinge by wedging a flat-blade screwdriver or ...
+----------------------------------------------------------------------------------------------------
+
+[TEST 14/23]
+Brand: LG
+Query: How often should I clean the water filter housing?
+----------------------------------------------------------------------------------------------------
+Response: The manual does not provide information about this topic. This may require contacting customer service or a certified technician.
+
+Response Length: 129 chars
+Weak Response (Should Trigger Tier 3): YES ⚠️
+
+Top 3 Sources Retrieved:
+  [1] Relevance: 0.350 | Chunk: 41
+      Preview: # 42  MAINTENANCE
+
+# Replacing the Water Filter
+
+NOTE
+
+Replace with a new water filter. This refrigerator does not require a filter bypass plug when t...
+  [2] Relevance: 0.335 | Chunk: 40
+      Preview: # MAINTENANCE
+
+# Replacing the Fresh Air Filter
+
+It is recommended that you replace the air filter:
+
+- Approximately every six months.
+- When the CHAN...
+  [3] Relevance: 0.319 | Chunk: 43
+      Preview: ENGLISH
+
+# 44 MAINTENANCE
+
+# Application Guidelines / Water Supply Parameters
+
+Note that while the testing was performed under standard laboratory con...
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+CATEGORY: Troubleshooting
+====================================================================================================
+
+[TEST 15/23]
+Brand: Samsung
+Query: My refrigerator is not cooling properly
+----------------------------------------------------------------------------------------------------
+Response: The manual does not provide information about this topic. This may require contacting customer service or a certified technician.
+
+Response Length: 129 chars
+Weak Response (Should Trigger Tier 3): YES ⚠️
+
+Top 3 Sources Retrieved:
+  [1] Relevance: 0.429 | Chunk: 45
+      Preview: # Troubleshooting
+
+Before calling for service, review the checkpoints below. Any service calls regarding normal situations (No Defect Cases) will be c...
+  [2] Relevance: 0.369 | Chunk: 35
+      Preview: Operations
+
+# Fridge / Power Cool
+
+To adjust the fridge temperature, press Fridge to select the corresponding temperature. You can change the temperat...
+  [3] Relevance: 0.365 | Chunk: 28
+      Preview: # Step-by-step installation
+
+# STEP 1    Select a site
+
+# Site requirements:
+
+- Solid, level surface without carpeting or flooring that may obstruct v...
+----------------------------------------------------------------------------------------------------
+
+[TEST 16/23]
+Brand: Whirlpool
+Query: Water dispenser is leaking
+----------------------------------------------------------------------------------------------------
+Response: The manual does not provide information about this topic. This may require contacting customer service or a certified technician.
+
+Response Length: 129 chars
+Weak Response (Should Trigger Tier 3): YES ⚠️
+
+Top 3 Sources Retrieved:
+  [1] Relevance: 0.348 | Chunk: 8
+      Preview: # Water Supply Connection Instructions
+
+Do not use a piercing-type or 3/16" (4.76 mm) saddle valve which reduces water flow and clogs more easily.
+
+# ...
+  [2] Relevance: 0.344 | Chunk: 9
+      Preview: # Connect to Refrigerator
+
+Depending on your model, the water line may come down from the top or up from the bottom. Follow the connection instruction...
+  [3] Relevance: 0.338 | Chunk: 13
+      Preview: # The Water Dispenser
+
+# IMPORTANT:
+
+Dispense at least 1 qt. (1 L) of water every week to maintain a fresh supply.
+
+If the flow of water from the disp...
+----------------------------------------------------------------------------------------------------
+
+[TEST 17/23]
+Brand: LG
+Query: Strange noise coming from compressor
+----------------------------------------------------------------------------------------------------
+Response: The manual does not provide information about this topic. This may require contacting customer service or a certified technician.
+
+Response Length: 129 chars
+Weak Response (Should Trigger Tier 3): YES ⚠️
+
+Top 3 Sources Retrieved:
+  [1] Relevance: 0.344 | Chunk: 54
+      Preview: # TROUBLESHOOTING
+
+| Problem                          | Possible Causes                                                                               ...
+  [2] Relevance: 0.321 | Chunk: 55
+      Preview: # 56 TROUBLESHOOTING
+
+| Problem                                                        | Possible Causes                                              ...
+  [3] Relevance: 0.287 | Chunk: 46
+      Preview: # TROUBLESHOOTING
+
+Review the Troubleshooting section before calling for service; doing so will save you both time and money.
+
+| Problem              ...
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+CATEGORY: Edge Cases
+====================================================================================================
+
+[TEST 18/23]
+Brand: Samsung
+Query: How do I fix everything?
+----------------------------------------------------------------------------------------------------
+Response: The manual does not provide information about this topic. This may require contacting customer service or a certified technician.
+
+Response Length: 129 chars
+Weak Response (Should Trigger Tier 3): YES ⚠️
+
+Top 3 Sources Retrieved:
+  [1] Relevance: 0.222 | Chunk: 45
+      Preview: # Troubleshooting
+
+Before calling for service, review the checkpoints below. Any service calls regarding normal situations (No Defect Cases) will be c...
+  [2] Relevance: 0.221 | Chunk: 49
+      Preview: Troubleshooting
+
+# Troubleshooting
+
+# SmartThings (applicable models only)
+
+| Symptom                                                                 ...
+  [3] Relevance: 0.209 | Chunk: 46
+      Preview: # Odours
+
+| Symptom                  | Possible causes                            | Solution                                                          ...
+----------------------------------------------------------------------------------------------------
+
+[TEST 19/23]
+Brand: Whirlpool
+Query: Something is broken
+----------------------------------------------------------------------------------------------------
+Response: The manual does not provide information about this topic. This may require contacting customer service or a certified technician.
+
+Response Length: 129 chars
+Weak Response (Should Trigger Tier 3): YES ⚠️
+
+Top 3 Sources Retrieved:
+  [1] Relevance: 0.222 | Chunk: 0
+      Preview: ....... 14                         | Machine à glaçons et bac d’entreposage                                | ........................... 45           ...
+  [2] Relevance: 0.214 | Chunk: 24
+      Preview: # Style 2
+
+1. A. Brake foot
+
+B. Front roller
+
+- Remove the two screws fastening the base grille to the cabinet and set screws aside.
+- Grasp the grill...
+  [3] Relevance: 0.214 | Chunk: 0
+      Preview: ............ 22                                     | Retrait et réinstallation du tiroir de congélation                    | ................ 54     ...
+----------------------------------------------------------------------------------------------------
+
+[TEST 20/23]
+Brand: LG
+Query: What's the warranty period?
+----------------------------------------------------------------------------------------------------
+Response: Parts and Labor: One (1) year from the date of original retail purchase
+Sealed System: One (1) year from the date of original retail purchase
+Linear Compressor: Seven (7) years from the date of original retail purchase
+Linear Compressor (Canada): Ten (10) years from the date of original retail purchase
+
+Response Length: 303 chars
+Weak Response (Should Trigger Tier 3): NO ✅
+
+Top 3 Sources Retrieved:
+  [1] Relevance: 0.361 | Chunk: 56
+      Preview: WARRANTY
+
+# WARRANTY (USA)
+
+Should your LG Refrigerator (“Product”) fail due to a defect in materials or workmanship under normal home use, during the...
+  [2] Relevance: 0.344 | Chunk: 58
+      Preview: # WARRANTY
+
+# WARRANTY (Canada)
+
+WARRANTY: Should your LG Refrigerator (“Product”) fail due to a defect in material or workmanship under normal home u...
+  [3] Relevance: 0.329 | Chunk: 59
+      Preview: # 60 WARRANTY
+
+THIS LIMITED WARRANTY DOES NOT COVER:
+
+1. Service trips to deliver, pick up, or install the product; instructing a customer on operatio...
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+CATEGORY: Cross-Brand Consistency Test
+====================================================================================================
+
+[TEST 21/23]
+Brand: Samsung
+Query: How do I replace the water filter?
+----------------------------------------------------------------------------------------------------
+Response: The manual does not provide information about this topic. This may require contacting customer service or a certified technician.
+
+Response Length: 129 chars
+Weak Response (Should Trigger Tier 3): YES ⚠️
+
+Top 3 Sources Retrieved:
+  [1] Relevance: 0.363 | Chunk: 44
+      Preview: # Replacement
+
+# Deodorizer filter (applicable models only)
+
+While holding the top and bottom sides of the filter case, unlock the filter case to reve...
+  [2] Relevance: 0.269 | Chunk: 17
+      Preview: Safety information
+
+# Safety information
+
+- Service Warranty and Modification.
+- Any changes or modifications performed by a 3rd party on this finishe...
+  [3] Relevance: 0.259 | Chunk: 43
+      Preview: # Maintenance
+
+# Cleaning
+
+WARNING
+- Do not use benzene, thinner, or home/car detergent such as Clorox™ for cleaning purposes. They may damage the sur...
+----------------------------------------------------------------------------------------------------
+
+[TEST 22/23]
+Brand: Whirlpool
+Query: How do I replace the water filter?
+----------------------------------------------------------------------------------------------------
+Response: To replace the water filter, locate the water filter in the top-right corner of the refrigerator compartment. Lift open the filter cover door and pull the filter straight out. Take the new filter out of its packaging, remove the covers from the O-rings, and insert the new filter into the filter housing with the arrow pointing up. Close the filter cover door completely to snap the filter into place. Flush the water system after replacing the filter. See the "Water and Ice Dispensers" section for details.
+
+Response Length: 508 chars
+Weak Response (Should Trigger Tier 3): NO ✅
+
+Top 3 Sources Retrieved:
+  [1] Relevance: 0.543 | Chunk: 17
+      Preview: # DOOR AND HANDLE INSTRUCTIONS
+
+Locate the water filter in the top-right corner of the refrigerator compartment. Lift open the filter cover door. The ...
+  [2] Relevance: 0.513 | Chunk: 16
+      Preview: # 5.
+
+Install the water filter cap onto the new filter. Be sure to align the arrows so the grooves in the filter align with ribs in the filter cap.
+
+#...
+  [3] Relevance: 0.496 | Chunk: 48
+      Preview: # INSTRUCTIONS POUR LA PORTE ET LA POIGNÉE
+
+1. Fermer complètement le couvercle du filtre pour emboîter le filtre et le mettre en place. Il faudra peu...
+----------------------------------------------------------------------------------------------------
+
+[TEST 23/23]
+Brand: LG
+Query: How do I replace the water filter?
+----------------------------------------------------------------------------------------------------
+Response: Remove the old water filter by lifting up and removing the lower door bin, swinging the right end of the water filter out of the compartment, and then grasping and rotating the filter counterclockwise to remove it from the filter head. Remember to replace it with a new water filter.
+
+Response Length: 283 chars
+Weak Response (Should Trigger Tier 3): NO ✅
+
+Top 3 Sources Retrieved:
+  [1] Relevance: 0.481 | Chunk: 41
+      Preview: # 42  MAINTENANCE
+
+# Replacing the Water Filter
+
+NOTE
+
+Replace with a new water filter. This refrigerator does not require a filter bypass plug when t...
+  [2] Relevance: 0.400 | Chunk: 43
+      Preview: ENGLISH
+
+# 44 MAINTENANCE
+
+# Application Guidelines / Water Supply Parameters
+
+Note that while the testing was performed under standard laboratory con...
+  [3] Relevance: 0.365 | Chunk: 40
+      Preview: # MAINTENANCE
+
+# Replacing the Fresh Air Filter
+
+It is recommended that you replace the air filter:
+
+- Approximately every six months.
+- When the CHAN...
+----------------------------------------------------------------------------------------------------
+
+
+====================================================================================================
+TEST SUMMARY REPORT
+====================================================================================================
+Total Tests Run: 23
+Successful Responses (Good Info): 4 (17.4%)
+Weak Responses (Tier 3 Needed): 19 (82.6%)
+
+Test Completed: 2026-02-17 19:19:42
+====================================================================================================
+
+====================================================================================================
+ANALYSIS & RECOMMENDATIONS
+====================================================================================================
+⚠️  HIGH WEAK RESPONSE RATE (>50%)
+   → Manuals may lack comprehensive DIY information
+   → Tier 3 cross-brand reference is critical for this use case
+   → Consider adding more examples to prompts or increasing top_k further
+
+====================================================================================================
+TEST SUITE COMPLETE
+====================================================================================================
